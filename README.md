@@ -119,7 +119,7 @@ usage: /char-update `sheet-type` `file`
  - —`Pathbuilder` Pathbuilder PDF export.
    - Pathbuilder's PDF export is actually a fillable PDF. This allows you to easily change the values before dropping it in. The parser will attempt to automatically create expression rows (buttons) for your attacks, which means you can create the expressions you want in the attack and damage fields. You can then call the attack(s) using /row with the given name. *Note* — When typing in these fields, some symbols may look incorrect. This is just a visual bug. 
 
-this will add a button that represents `1d20+ATK_DEX` for hit, and `1d10` for damage. i just added support for the crit field as well, if you want.
+this will add a button that represents `1d20+ATK_DEX` for hit (there is actually an underscore there, not spaces), and `1d10` for damage. i just added support for the crit field as well, if you want.
 
 ![tp](https://user-images.githubusercontent.com/10622391/192145947-61a74f62-fdb7-4182-be80-499e20d80f5b.jpg)
 
