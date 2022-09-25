@@ -312,14 +312,14 @@ usage: /preset-weapon `number-or-name` `hit-mod` `damage-mod` `hit-bonus` `dmg-b
 `hit-mod`
  - The modifier used for hitting.
 
-`damage-mod`
- - The modifier used for damage (if any)
+`damage-mod` *optional*
+ - The modifier used for damage
 
-`hit-bonus`
- - The bonus to hit (if any)
+`hit-bonus` *optional*
+ - The bonus to hit
 
-`dmg-bonus`
- - The bonus damage (if any)
+`dmg-bonus` *optional*
+ - The bonus damage
 
 `size`
  - The size of the character. If left blank, it will check the character's Stackblock for size. If none is found, it will default to medium.
