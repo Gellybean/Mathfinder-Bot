@@ -57,7 +57,7 @@ my acrobatics isn't good. nice roll though!
 ![button](https://user-images.githubusercontent.com/10622391/192144530-b4805f75-6ac6-4db2-a477-7a615342878e.jpg)
 
 ## Character Sheet Imports
-While you can setup a character by manually setting each value, this is not ideal. Mathfinder currently supports three different options for character imports, so that you can update your character at each level.
+While you can setup a character by manually modifying each value, this is not ideal. Mathfinder currently supports a few options for character imports. This will override any pertinent values, so anytime your stats would change (level up, cool new magic item), you can easily update your sheet.
 
 ### PCGen
  - Using the export option `csheet_fantasy_rpgwebprofiler.xml`. Tested with v6.09.05.
@@ -68,8 +68,7 @@ While you can setup a character by manually setting each value, this is not idea
 ### Pathbuilder
  - Using the exported PDF
 
-
-These files can be uploaded to update any created character. There are specific limitation when parsing some sheets. For instance, not all bonus-types may be known for a given stat, and cannot be applied accurately, but the totals should remain correct. This can affect the proper calculation of stacking bonuses. I do my best!
+*NOTE* — There are specific limitation when parsing different sheets. For instance, not all bonus-types may be known for a given stat, and cannot be applied accurately, but the totals should remain correct. This can affect the proper calculation of stacking bonuses. I do my best!
 
 
 ## Command Reference
