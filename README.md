@@ -73,7 +73,9 @@ These files can be uploaded to update any created character. There are specific 
 
 
 ## Command Reference
-There are other commands than the ones listed below. I've only documented the ones I feel are worth using/testing at the moment. There are also `dm` versions of some commands, which add an additional `target` option for selecting other player's active sheets. These require the `DM` role.
+There are other commands than the ones listed below. I've only documented the ones I feel are worth using/testing at the moment. Almost all variable names are upper-case and underscore-spaced (like `SHORT_SWORD` or `STR_SCORE`). However, when using them, they are not case-sensitive, and you can use spaces or underscores to separate words (`short sword` should work in place of `SHORT_SWORD`).
+
+There are also `dm` versions of some commands, which add an additional `target` option for selecting other player's active sheets. These require the `DM` role.
 
 
 
