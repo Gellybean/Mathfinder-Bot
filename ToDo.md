@@ -6,9 +6,6 @@ Inventory
   - Magic items
   - Clothing
 
-Info
-- Allow modification of character info. Like stats, but for text
-
 Magic
  - Create a system for magic. This should include:
    - Complete spell lists for each class
