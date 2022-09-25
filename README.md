@@ -117,6 +117,7 @@ usage: /char-update `sheet-type` `file`
 `sheet-type`
 
  - —`Pathbuilder` Pathbuilder PDF export.
+   - Pathbuilder's PDF export is actually a fillable PDF. This allows you to easily change the values before dropping it in. The parser will attempt to automatically create expression rows (buttons) for your attacks, which means you can create the expressions you want in the attack and damage fields (as opposed to creating them manually with bot commands).
 
  - —`HeroLabs` HeroLabs XML export.
 
