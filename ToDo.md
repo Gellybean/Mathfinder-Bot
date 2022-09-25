@@ -1,7 +1,7 @@
 # Mathfinder Roadmap
 
 DM
-- Direct modifications of player stats
+- Modification of player sheets
 - Owner management
 
 Inventory
