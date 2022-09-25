@@ -44,6 +44,14 @@ These `Rows` are sets of buttons. These can call any value from your sheet or be
 
 `Grids` are sets of expression rows. Up to 5 rows can be called in this manner per command, creating an (up to) 5x5 grid of buttons. Use `/var Set-Grid` to create a grid using expression row names. Use `/grid` to call any created grids.
 
+a row
+
+![onerow](https://user-images.githubusercontent.com/10622391/192144466-0847fa71-1a0a-4820-8700-91190e345365.jpg)
+
+a grid (a set of rows)
+
+![grid](https://user-images.githubusercontent.com/10622391/192144484-d20f109e-19d9-4562-8a28-d1795dbd3531.jpg)
+
 
 ## Character Sheet Imports
 While you can setup a character by manually setting each value, this is not ideal. Mathfinder currently supports three different options for character imports, so that you can update your character at each level.
