@@ -119,6 +119,8 @@ usage: /char-update `sheet-type` `file`
  - —`Pathbuilder` Pathbuilder PDF export.
    - Pathbuilder's PDF export is actually a fillable PDF. This allows you to easily change the values before dropping it in. The parser will attempt to automatically create expression rows (buttons) for your attacks, which means you can create the expressions you want in the attack and damage fields. You can then call the attack(s) using /row with the given name. *Note* — When typing in these fields, some symbols may look incorrect. This is just a visual bug. 
 
+![tp](https://user-images.githubusercontent.com/10622391/192145827-0a55e79b-f396-45fb-a94c-cea6a22a94ad.jpg)
+
  - —`HeroLabs` HeroLabs XML export.
 
  - —`PCGen` Export using the `csheet_fantasy_rpgwebprofiler.xml` option.
