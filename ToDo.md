@@ -1,5 +1,9 @@
 # Mathfinder Roadmap
 
+DM
+- Direct modifications of player stats
+- Owner management
+
 Inventory
 - Add more item sets for easier bookkeeping
   - Adventuring gear
@@ -11,3 +15,4 @@ Magic
    - Complete spell lists for each class
    - Spellbooks and known spell modification
    - Auto expressions for spell damage and other rolled values
+
