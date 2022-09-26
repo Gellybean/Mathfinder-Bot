@@ -37,8 +37,8 @@ Now we can add a modifier to the roll.
   
   `(STR_SCORE - 10) / 2` With this, we can get the modifier value and then do `1d20 + (STR_SCORE - 10) / 2`.
   
-  More practically, you would want to store this modifier in its own value. You can do this by using the `/var` command with the `Set-Expression` option. You would then give it a name  
+  More practically, you would want to store this modifier in its own value. You can do this by using the `/var` command with the `Set-Expression` option. You would then give it a name like so:
   
   ![expr1](https://user-images.githubusercontent.com/10622391/192177394-3fcd6d21-d22e-4956-bec8-d6cb79a7bbc9.jpg)
 
-
+Luckily, all of these values are already coded into any default character sheet.
