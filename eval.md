@@ -33,7 +33,7 @@ When a dice expression is used, it will return an event to let you know what val
 
 Now we can add a modifier to the roll.
 
-  `1d20 + STR_SCORE` This would roll a twenty-sided die and add your STR_SCORE to the total. Of course, that's stupid, since you would want the modifier instead.
+  `1d20 + STR_SCORE` This would roll a twenty-sided die and add your STR_SCORE to the total. Of course, that's silly, since you would want the modifier instead.
   
   `(STR_SCORE - 10) / 2` With this, we can get the modifier value and then do `1d20 + (STR_SCORE - 10) / 2`.
   
@@ -41,4 +41,4 @@ Now we can add a modifier to the roll.
   
   ![expr1](https://user-images.githubusercontent.com/10622391/192177394-3fcd6d21-d22e-4956-bec8-d6cb79a7bbc9.jpg)
 
-Luckily, all of these values are already coded into any default character sheet.
+Luckily, all of these values are already coded into the default character sheet.
