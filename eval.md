@@ -1,6 +1,6 @@
 # Evaluate
 
-If you want to call a single formula from you character sheet—such as a saving throw or skill check—often the quickest way to do that is with `eval`. This gives you direct access to the math engine, the core component of Mathfinder.
+If you want to call a single formula from you character sheet—such as a saving throw or skill check—often the quickest way to do that is with `/eval`. This gives you direct access to the math engine, the core component of Mathfinder.
 
 
 usage: /eval `expr`
