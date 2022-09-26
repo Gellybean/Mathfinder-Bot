@@ -31,3 +31,9 @@ returns this
 
 When a dice expression is used, it will return an event to let you know what value was rolled. The events are in order of operation.
 
+Now we can add a modifier to the roll.
+
+  `1d20 + STR_SCORE` This would roll a twenty-sided die and add your STR_SCORE to the total. Of course, that's stupid, since you would want the modifier instead.
+  
+  `(STR_SCORE - 10) / 2` With this, we can get the modifier value and then do `1d20 + (STR_SCORE - 10) / 2`.
+
