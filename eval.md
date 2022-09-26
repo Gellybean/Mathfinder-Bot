@@ -41,4 +41,4 @@ Now we can add a modifier to the roll.
   
   ![expr1](https://user-images.githubusercontent.com/10622391/192177394-3fcd6d21-d22e-4956-bec8-d6cb79a7bbc9.jpg)
 
-Keep in mind, these are simply examples. All basic values are already set in the default Pathfinder sheet.
+Keep in mind, these are simply examples. All basic values are already set in the default Pathfinder sheet. The general goal of Mathfinder is minimal setup. 
