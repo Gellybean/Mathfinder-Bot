@@ -19,7 +19,7 @@ returns this
 ![eval](https://user-images.githubusercontent.com/10622391/192175963-8b599fc7-f4c0-4a7c-98d0-2c892625790d.jpg)
 
 
-Simple, but also useless in the conext of RPGs. Let's say you want to "roll" a d20.
+Simple, but not very useful. Here's how you "roll" a d20.
 
 this
 
