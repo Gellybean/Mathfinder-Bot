@@ -78,9 +78,16 @@ There are other commands than the ones listed below. I've only documented the on
 There are also `dm` versions of some commands, which add an additional `target` option for selecting other player's active sheets. These require the `DM` role.
 
 [/char](https://github.com/Gellybean/Mathfinder-Bot/blob/main/char.md)
+
 [/char-update](https://github.com/Gellybean/Mathfinder-Bot/blob/main/char-update.md)
+
 [/eval](https://github.com/Gellybean/Mathfinder-Bot/blob/main/eval.md)
+
 [/inv](https://github.com/Gellybean/Mathfinder-Bot/blob/main/inv.md)
+
 [/mod](https://github.com/Gellybean/Mathfinder-Bot/blob/main/mod.md)
+
 [/preset-x](https://github.com/Gellybean/Mathfinder-Bot/blob/main/presets.md)
+
 [/var](https://github.com/Gellybean/Mathfinder-Bot/blob/main/var.md)
+
