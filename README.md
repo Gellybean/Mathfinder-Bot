@@ -239,50 +239,6 @@ usage: /mod `action` `mod-name` `target`
 This command will add or remove a modifier to your current character. Some modifiers contain sub-options, such as `BEAST_SHAPE` or any spell that scales with caster level. These options generally appear as buttons.
 
 
-
-### **-VAR-**
-
-usage: /var `action` `var-name` `value`
-
--:-
-
-`action`
-
- - —`Set-Expression` 
-   - `var-name` Name of the expression.
-   - `value` Expression to create. 
-
- - —`Set-Row` 
-   - `var-name` Row name. This will bring up a modal window, where you can make up to 5 expressions. The syntax is `LABEL:EXPRESSION`. The label is optional—if omitted it will use the expression as the label.
-
- - —`Set-Grid`
-   - `var-name` Grid name. The same as Set-Row except you can specify rows instead of expressions.
-
- - —`Set-Craft` *EXPERIMENTAL.* This lets you set a mundane item to craft. 
-   - `var-name` Item name. 
-   - `value` DC to craft.
-
- - —`List-Stats` Lists all stats for an active character.
-
- - —`List-Expressions` Lists all expressions for an active character.
-
- - —`List-Bonus` Lists all bonuses applied to stats.
-
- - —`List-Row` Lists all saved Rows. 
-   - `var-name` *optional.* List a single Row's expressions.
-
- - —`List-Presets` Lists all weapon presets.
-
- - —`List-Shapes` Lists all available creature shapes.
-
- - —`List-Grids` Lists all saved Grids.
-
- - —`List-Crafts` List all active crafts.
-
- - —`Remove-Variable` Removes a Stat, Expression, Row, or Grid. 
-   - `var-name` The variable name to remove.
-
-
 ### **-PRESET-ARMOR-**
 
 usage: /preset-armor `number-or-name` `enhancement`
@@ -299,6 +255,24 @@ usage: /preset-armor `number-or-name` `enhancement`
 
 #### Remarks
 This command will apply the stats gained from a specific set of armor (or a shield) to an active character. For shields, this applies a shield bonus to AC and skill check penalties. For armor, this applies an armor bonus to AC, skill check penalties, and max AC gained from Dexterity. It will attempt to remove and previous armor or shield bonuses depending.
+
+
+
+### **-PRESET-SPELL-**
+
+usage: /preset-spell `number-or-name`
+
+-:-
+
+`number-or-name`
+ - The name or index number of the spell.
+
+![spell](https://user-images.githubusercontent.com/10622391/192415053-aa668953-967b-46e3-bcac-0f41ec91fd96.jpg)
+
+
+#### Remarks
+This command currently has no interaction with the character sheet, but you can bring up any spell for reference.
+
 
 
 ### **-PRESET-WEAPON-**
@@ -357,4 +331,48 @@ usage: /shape `number-or-name` `hit-mod` `multi-attack`
 `/shape` is meant to be used in-tandem with a polymorph `/mod`, such as `BEAST_SHAPE`. This will generate the attacks (primary and/or secondary) and natural weapons associated with a particular creature's shape. In addition, it will list any speeds, senses, or special abilities you may receive from taking the creature's shape. Be sure to follow the particular spell's allowances, as many creatures are listed with their maximum possible features.
 
 ![shape](https://user-images.githubusercontent.com/10622391/192065898-00161ce4-7775-4b49-b7bf-34c11d8631d3.jpg)
+
+
+
+### **-VAR-**
+
+usage: /var `action` `var-name` `value`
+
+-:-
+
+`action`
+
+ - —`Set-Expression` 
+   - `var-name` Name of the expression.
+   - `value` Expression to create. 
+
+ - —`Set-Row` 
+   - `var-name` Row name. This will bring up a modal window, where you can make up to 5 expressions. The syntax is `LABEL:EXPRESSION`. The label is optional—if omitted it will use the expression as the label.
+
+ - —`Set-Grid`
+   - `var-name` Grid name. The same as Set-Row except you can specify rows instead of expressions.
+
+ - —`Set-Craft` *EXPERIMENTAL.* This lets you set a mundane item to craft. 
+   - `var-name` Item name. 
+   - `value` DC to craft.
+
+ - —`List-Stats` Lists all stats for an active character.
+
+ - —`List-Expressions` Lists all expressions for an active character.
+
+ - —`List-Bonus` Lists all bonuses applied to stats.
+
+ - —`List-Row` Lists all saved Rows. 
+   - `var-name` *optional.* List a single Row's expressions.
+
+ - —`List-Presets` Lists all weapon presets.
+
+ - —`List-Shapes` Lists all available creature shapes.
+
+ - —`List-Grids` Lists all saved Grids.
+
+ - —`List-Crafts` List all active crafts.
+
+ - —`Remove-Variable` Removes a Stat, Expression, Row, or Grid. 
+   - `var-name` The variable name to remove.
 
