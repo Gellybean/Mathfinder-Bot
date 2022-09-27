@@ -1,12 +1,16 @@
 ## **EVALUATE**
 
-usage: /eval `expr`
+usage: /eval `expr` `targets`
 
 -:-
 
 `expr`
 
  - The expression to evaluate.
+
+`targets` *DM Role Only*
+
+ - By using @mentions, you can eval multiple active characters at once.
 
 cool?
 
