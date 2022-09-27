@@ -227,7 +227,7 @@ usage: /mod `action` `mod-name` `target`
  - —`Add` Add the following mod-name.
  - —`Remove` Remove the following mod-name.
 
-`mod-name` Name of the modifier (use /var List-Mods for a coomprehensive list).
+`mod-name` Name of the modifier (use /var List-Mods for a comprehensive list).
 
 `target` *optional.* Target or targets using @mentions. Leave blank to target yourself.
 
