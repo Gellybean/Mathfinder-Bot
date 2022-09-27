@@ -41,4 +41,28 @@ Now we can add a modifier to the roll.
   
   ![expr1](https://user-images.githubusercontent.com/10622391/192177394-3fcd6d21-d22e-4956-bec8-d6cb79a7bbc9.jpg)
 
-Keep in mind, these are simply examples. Basic values like these are already set in the default Pathfinder sheet. The general goal of Mathfinder is minimal setup, with the option for customization.
+Keep in mind, these are only examples. Basic values like these are already set in the default Pathfinder sheet. The general goal of Mathfinder is minimal setup, with the option for customization.
+
+
+## Functions
+Functions are special commands that generally take arguments and return a value.
+
+Reffering to the strength modifier above, you can instead use the `mod` function to do the same thing.
+
+`mod(STR_SCORE)` This will take whatever value is inside the parenthesis and perform the same math operation as above.
+
+You can use these functions in any expression.
+
+  `abs(x)` — Returns the absolute value of x
+  `clamp(x,y,z)` — Returns value x, clamped between y and z
+  `if(x,y)` — Returns y if x is TRUE (1), otherwise returns 0
+  `max(x,y)` — Returns biggest number between x and y
+  `min(x,y)` — Returns smallest number between x and y
+  `mod(x)` — Returns the ability score modifier of x
+  `rand(x,y)` — Returns a random number between x and y
+  `oh(x)` — offhand, shorthand for x/2
+  `th(x)` — twohanded, shorthand for x*(x/2)
+  `bad(x)` — bad saves, shorthand for x/3
+  `good(x)` — good saves, shorthand for 2+(x/2)
+  `tq(x)` — three-quarters, shorthand for (x+(x/2))/2
+  `clearmods()` — clears all bonuses from all stats
