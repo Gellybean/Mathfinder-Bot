@@ -77,5 +77,5 @@ There are other commands than the ones listed below. I've only documented the on
 
 There are also `dm` versions of some commands, which add an additional `target` option for selecting other player's active sheets. These require the `DM` role.
 
-char.md
+https://github.com/Gellybean/Mathfinder-Bot/blob/main/char.md
 
