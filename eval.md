@@ -69,7 +69,7 @@ You can use these functions in any expression.
   
   `oh(x)` — offhand, shorthand for `x/2`
   
-  `th(x)` — twohanded, shorthand for `x*(x/2)`
+  `th(x)` — twohanded, shorthand for `x+(x/2)`
   
   `bad(x)` — bad saves, shorthand for `x/3`
   
