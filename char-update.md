@@ -1,4 +1,4 @@
-### **-CHARACTER-UPDATE-**
+### **CHARACTER-UPDATE**
 
 usage: /char-update `sheet-type` `file`
 
