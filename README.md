@@ -6,8 +6,8 @@ Mathfinder is a Discord bot built as a stat-tracker for Pathfinder 1e. Its featu
 - Statblock that keeps track of values and any bonuses applied to them, as well as determining how each bonus stacks.
 - Character sheet imports from other software (PCGen, Pathbuilder, HeroLabs).
 - Apply spells, effects, conditions to your character and your party (using mentions).
-- Presets for things like weapons and creature shapes, some of which can be customized before calling.
 - Ability to turn formulae into buttons which you can call in rows and grids for easy access.
+- Presets for things like weapons and creature shapes, some of which can be customized before calling.
 - Basic inventory management.
 - Spell reference.
 - Tools for DMs, including the ability to evaluate character sheets, secrets rolls, initiative tracking.
@@ -33,7 +33,7 @@ stats. simple enough.
 
 ![stats1](https://user-images.githubusercontent.com/10622391/192097536-4b77e851-29f9-4a46-8336-e846e4ea142f.jpg)
 
-expressions. dont worry about it—unless you want to.
+expressions. dont worry about too much about the details—unless you want to.
 
 ![expr](https://user-images.githubusercontent.com/10622391/192116307-e73c3cd1-1c4b-4b7e-9ad7-fd051ce01e1c.jpg)
 
@@ -58,7 +58,7 @@ my acrobatics isn't good. nice roll though!
 ![button](https://user-images.githubusercontent.com/10622391/192144530-b4805f75-6ac6-4db2-a477-7a615342878e.jpg)
 
 ## Character Sheet Imports
-While you can setup a character by manually modifying each value, this is not ideal. Mathfinder currently supports a few options for character imports. This will override any pertinent values, so anytime your stats would change (level up, cool new magic item), you can easily update your sheet.
+While you can setup a character by manually modifying each value, this is not ideal. Mathfinder currently supports a few options for character imports. This will override any pertinent values, so anytime your stats would change (level up, new stat-changing item), you can easily update your sheet.
 
 ### PCGen
  - Using the export option `csheet_fantasy_rpgwebprofiler.xml`. Tested with v6.09.05.
@@ -73,7 +73,7 @@ While you can setup a character by manually modifying each value, this is not id
 
 
 ## Command Reference
-There are other commands than the ones listed below. I've only documented the ones I feel are worth using/testing at the moment. Almost all variable names are SCREAMING_SNAKE_CASE (like `SHORT_SWORD` or `STR_SCORE`). However, when using them, they are not case-sensitive, and you can use spaces or underscores to separate words (`short sword` should work in place of `SHORT_SWORD` during an /eval). HISS.
+There are other commands than the ones listed below. I've only documented the ones I feel are worth using/testing at the moment. Almost all variable names are SCREAMING_SNAKE_CASE (like `SHORT_SWORD` or `STR_SCORE`). However, when using them, they are not case-sensitive, and you can use spaces or underscores to separate words (`short sword` will work in place of `SHORT_SWORD` during an /eval). HISS.
 
 There are also `dm` versions of some commands, which add an additional `target` option for selecting other player's active sheets. These require the `DM` role.
 
