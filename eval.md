@@ -1,39 +1,47 @@
-# Evaluate
-
-If you want to call a single formula from you character sheet—such as a saving throw or skill check—often the quickest way to do that is with `/eval`. This gives you direct access to the math engine, the core component of Mathfinder.
-
+## **-EVALUATE-**
 
 usage: /eval `expr`
 
+-:-
 
-## Basics
-Eval requires an active character, where all variables are referenced from.
+`expr`
+
+ - The expression to evaluate.
+
+cool?
+
+![eval0](https://user-images.githubusercontent.com/10622391/192032624-f0e56353-731d-4b15-9827-606ee703b1a8.jpg)
+
+more practical
+
+![eval1](https://user-images.githubusercontent.com/10622391/192047953-34581fa4-bf82-4986-93d7-20138f92f437.jpg)
+
+wtf
+
+![eval2](https://user-images.githubusercontent.com/10622391/192032806-774d28bd-acf2-4908-b413-3dcfa75fe8ec.jpg)
+
+cmon
+
+![wtf](https://user-images.githubusercontent.com/10622391/192057007-8601126b-b0b0-489b-bcb1-7fd81ced099b.jpg)
 
 
-![eval0](https://user-images.githubusercontent.com/10622391/192175946-1b211203-85bf-4692-a608-589583f42afc.jpg) this
 
-![eval](https://user-images.githubusercontent.com/10622391/192175963-8b599fc7-f4c0-4a7c-98d0-2c892625790d.jpg) returns this
+#### Remarks
+`/eval` supports many different math operators: `+` `-` `*` `/` `>` `<` `==` `!=` `<=` `>=` `%` `()` `=` `+=` `-=` `*=` `/=` `&&` `||` `?:`. Use `/mf-help` on the bot for more examples.
 
+Dice expressions are also supported within any formula. `1d20` is a valid expression. You can also use rerolls and multipliers. `3d6r1` would "roll" 3 six-sided die, rerolling any dice that come up 1 (the initial roll only). `(3d6*2)` would effectively turn into `6d6`.
 
-Simple, but not very useful. Here's how you "roll" a d20.
+Assignment operators (`=`, `+=`, etc) can be used to change the current **base** value of any Stat. The `@` prefix (ex. `@STR_SCORE`) will let you view or utilize the base value of any stat (no bonuses applied).
 
-![eval2](https://user-images.githubusercontent.com/10622391/192176357-3de125da-d302-4e70-88f4-68d08486413a.jpg) this
+![bonus](https://user-images.githubusercontent.com/10622391/192063905-989523bc-14ef-4d21-b185-c0e1d84ee1f4.jpg)
 
-![eval3](https://user-images.githubusercontent.com/10622391/192176377-8c9d6eb2-4064-4734-984e-54b073662414.jpg) returns this
+To modify bonus values instead, you can use the special `$` operator. Adding a specific bonus to any stat can be done as follows: `STATNAME +$ NAME:TYPE:VALUE`. A name and type are required for determining which bonuses stack. Types can be represented by numbers or names (7 and ENHANCEMENT are identical). To remove a bonus from a stat, you can do: `STATNAME -$ NAME`. This will effectively remove all bonuses with that name from the stat. You can view a specific bonus by doing: `STATNAME $ TYPE`. You can also use `/var List-Bonuses` to see all bonuses applied to all stats.
 
-When a dice expression is used, it will return an event to let you know what value was rolled. The events are in order of operation.
+![types](https://user-images.githubusercontent.com/10622391/192049011-451e78d3-b0db-429c-a74b-75b5fa0f6817.jpg)
 
-Now we can add a modifier to the roll.
+The `BASE` type is a special bonus that overrides all other values, including the original base value. This is useful for certain modifiers such as size mods or spells like *feeblemind*, where you need to set a score to a specific value regardless of its current value.
 
-  `1d20 + STR_SCORE` This would roll a twenty-sided die and add your STR_SCORE to the total. Of course, that's silly, since you would want the modifier instead.
-  
-  `(STR_SCORE - 10) / 2` With this, we can get the modifier value and then do `1d20 + (STR_SCORE - 10) / 2`.
-  
-  More practically, you would want to store this modifier in its own value. You can do this by using the `/var` command with the `Set-Expression` option. You would then give it a name like so:
-  
-  ![expr1](https://user-images.githubusercontent.com/10622391/192177394-3fcd6d21-d22e-4956-bec8-d6cb79a7bbc9.jpg)
-
-Keep in mind, these are only examples. Basic values like these are already set in the default Pathfinder sheet. The general goal of Mathfinder is minimal setup, with the option for customization.
+*NOTE* — `/eval` returns integer values only. This comes with some limitations in how evaluations are performed. For example, true and false are represented by 1 and 0 respectively. `TRUE`/`FALSE` are hardcoded variables that can be used for readability. This also applies to all bonus types and their respective numbers.
 
 
 ## Functions
