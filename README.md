@@ -354,20 +354,13 @@ usage: /var `action` `var-name` `value`
    - `var-name` Item name. 
    - `value` DC to craft.
 
- - —`List-Stats` Lists all stats for an active character.
-
- - —`List-Expressions` Lists all expressions for an active character.
+ - —`List-Vars` Lists all stats, expressions, rows, and grids.
 
  - —`List-Bonus` Lists all bonuses applied to stats.
-
- - —`List-Row` Lists all saved Rows. 
-   - `var-name` *optional.* List a single Row's expressions.
 
  - —`List-Presets` Lists all weapon presets.
 
  - —`List-Shapes` Lists all available creature shapes.
-
- - —`List-Grids` Lists all saved Grids.
 
  - —`List-Crafts` List all active crafts.
 
