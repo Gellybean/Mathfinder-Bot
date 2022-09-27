@@ -27,13 +27,13 @@ Each `Stat` contains a base value, as well as a list of bonuses. Each `Bonus` co
 
 For usability, stats and expressions share a pool of variable names.
 
-*NOTE* — The Pathfinder default character sheet contains a number of both stats and expressions that represent the values you would find on any standard character sheet. Other than class-specific features, you should find the majority of what you need; the goal is minimal setup, while offering the freedom for anyone to customize it how they choose. You can view these values using the `/var` List options.
+*NOTE* — The Pathfinder default character sheet contains a number of both stats and expressions that represent the values you would find on any standard character sheet. Other than class-specific features, you should find the majority of what you need; the goal is minimal setup, while offering the freedom for anyone to customize it how they choose. You can view these values with the List-Vars command using `/var`.
 
 stats. simple enough.
 
 ![stats1](https://user-images.githubusercontent.com/10622391/192097536-4b77e851-29f9-4a46-8336-e846e4ea142f.jpg)
 
-expressions. dont worry about too much about the details—unless you want to.
+expressions. dont worry about too much about it—unless you want to.
 
 ![expr](https://user-images.githubusercontent.com/10622391/192116307-e73c3cd1-1c4b-4b7e-9ad7-fd051ce01e1c.jpg)
 
