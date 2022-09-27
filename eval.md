@@ -59,9 +59,9 @@ You can use these functions in any expression.
   
   `if(x,y)` — Returns y if x is TRUE (1), otherwise returns 0
   
-  `max(x,y)` — Returns biggest number between x and y
+  `max(x,y)` — Returns biggest number of x and y
   
-  `min(x,y)` — Returns smallest number between x and y
+  `min(x,y)` — Returns smallest number of x and y
  
   `mod(x)` — Returns the ability score modifier of x
   
