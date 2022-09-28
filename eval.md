@@ -4,13 +4,9 @@ usage: /eval `expr` `targets`
 
 -:-
 
-`expr`
+`expr` The expression to evaluate.
 
- - The expression to evaluate.
-
-`targets` *DM Role Only*
-
- - By using @mentions, you can eval multiple active characters at once.
+`targets` *DM Role Only.* By using @mentions, you can eval multiple active characters at once.
 
 cool?
 
