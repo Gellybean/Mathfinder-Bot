@@ -56,13 +56,13 @@ usage: /preset-weapon `number-or-name` `hit-mod` `damage-mod` `hit-bonus` `dmg-b
 
 `number-or-name` The name or index number associated with it (use /var List-Weapons to see a comprehensive list).
 
-`hit-mod` The modifier used for hitting.
+`hit-mod` *optional* The modifier used for hitting. Default is STR.
 
-`damage-mod` *optional* The modifier used for damage
+`damage-mod` *optional* The modifier used for damage. Default is None.
 
-`hit-bonus` *optional.* The bonus to hit
+`hit-bonus` *optional.* The bonus to hit.
 
-`dmg-bonus` *optional.* The bonus damage
+`dmg-bonus` *optional.* The bonus damage.
 
 `size` *optional.* The size of the character. If left blank, it will check the character's Stackblock for size. If none is found, it will default to medium.
 
