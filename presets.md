@@ -4,11 +4,9 @@ usage: /preset-armor `number-or-name` `enhancement`
 
 -:-
 
-`number-or-name`
- - The name or index number associated with it (use /var List-Armor to see a comprehensive list).
+`number-or-name` The name or index number associated with it (use /var List-Armor to see a comprehensive list).
 
-`enhancement` *optional*
- - The enhancement bonus (if any) to AC.
+`enhancement` *optional.* The enhancement bonus (if any) to AC.
 
 ![hara](https://user-images.githubusercontent.com/10622391/192118521-60e4c411-a50b-49dd-8793-9ffb6e9bf74d.jpg)
 
@@ -22,11 +20,9 @@ usage: /shape `number-or-name` `hit-mod` `multi-attack`
 
 -:-
 
-`numer-or-name`
- - The name or index number associated with it (use /var List-Shapes to see a comprehensive list).
+`numer-or-name` The name or index number associated with it (use /var List-Shapes to see a comprehensive list).
  
-`hit-mod`
- - The modifier used for hitting.
+`hit-mod` The modifier used for hitting.
 
 `multi-attack` *optional.* Set to true if you possess the `Multiattack` feat. This will adjust the penalty on your secondary attack.
  
@@ -42,8 +38,7 @@ usage: /preset-spell `number-or-name`
 
 -:-
 
-`number-or-name`
- - The name or index number of the spell.
+`number-or-name` The name or index number of the spell.
 
 ![spell](https://user-images.githubusercontent.com/10622391/192415053-aa668953-967b-46e3-bcac-0f41ec91fd96.jpg)
 
@@ -59,23 +54,17 @@ usage: /preset-weapon `number-or-name` `hit-mod` `damage-mod` `hit-bonus` `dmg-b
 
 -:-
 
-`number-or-name`
- - The name or index number associated with it (use /var List-Weapons to see a comprehensive list).
+`number-or-name` The name or index number associated with it (use /var List-Weapons to see a comprehensive list).
 
-`hit-mod`
- - The modifier used for hitting.
+`hit-mod` The modifier used for hitting.
 
-`damage-mod` *optional*
- - The modifier used for damage
+`damage-mod` *optional* The modifier used for damage
 
-`hit-bonus` *optional*
- - The bonus to hit
+`hit-bonus` *optional.* The bonus to hit
 
-`dmg-bonus` *optional*
- - The bonus damage
+`dmg-bonus` *optional.* The bonus damage
 
-`size` *optional*
- - The size of the character. If left blank, it will check the character's Stackblock for size. If none is found, it will default to medium.
+`size` *optional.* The size of the character. If left blank, it will check the character's Stackblock for size. If none is found, it will default to medium.
 
 
 ![preset](https://user-images.githubusercontent.com/10622391/192030455-2149b615-ea3f-4663-b55d-5d8a56846b8f.jpg)
