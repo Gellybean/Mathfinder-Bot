@@ -87,8 +87,6 @@ There are also `dm` versions of some commands, which add an additional `target` 
 
 [/inv](https://github.com/Gellybean/Mathfinder-Bot/blob/main/inv.md)
 
-[/mod](https://github.com/Gellybean/Mathfinder-Bot/blob/main/mod.md)
-
 [/preset-x](https://github.com/Gellybean/Mathfinder-Bot/blob/main/presets.md)
 
 [/var](https://github.com/Gellybean/Mathfinder-Bot/blob/main/var.md)
