@@ -13,7 +13,7 @@ this will create a row with a button that represents `1d20+ATK_DEX` for hit (the
 
 ![tp](https://user-images.githubusercontent.com/10622391/192145947-61a74f62-fdb7-4182-be80-499e20d80f5b.jpg)
 
- *NOTE* — When typing in these fields, some symbols may look incorrect. This is just a visual bug. 
+ *NOTE* — When typing in these fields, some letters may look incorrect. This is just a visual bug. 
  
  - —`HeroLabs` HeroLabs XML export.
 
