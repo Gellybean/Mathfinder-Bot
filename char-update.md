@@ -26,4 +26,4 @@ this will create a row with a button that represents `1d20+ATK_DEX` for hit (the
 
 
 #### Remarks
-This feature is meant to update your character at each level (or whenever you feel like it) by importing a character sheet from a program more suited for character advancement. It should not remove any custom made stats, but it *will* override any defaults with ones from the sheet.
+This feature is meant to update your character at each level (or whenever you feel like it) by importing a character sheet from a program more suited for character advancement. It should not remove any custom made stats, but most default stats will be overridden.
