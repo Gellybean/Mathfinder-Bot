@@ -71,8 +71,6 @@ usage: /preset-weapon `number-or-name` `hit-mod` `damage-mod` `hit-bonus` `dmg-b
 
 ![weapon](https://user-images.githubusercontent.com/10622391/192163817-021abd3f-c883-40d6-a021-751cd17c653e.jpg)
 
-![preset-2](https://user-images.githubusercontent.com/10622391/192030805-9971520e-2886-4b47-b7f0-38eb652e402e.jpg)
-
 
 #### Remarks
 You can use `/preset-save` with a `name` to save the last generated preset to your active character sheet.
