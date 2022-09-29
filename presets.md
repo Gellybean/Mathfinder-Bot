@@ -27,7 +27,7 @@ usage: /shape `number-or-name` `hit-mod` `multi-attack`
 `multi-attack` *optional.* Set to true if you possess the `Multiattack` feat. This will adjust the penalty on your secondary attack.
  
 #### Remarks
-`/shape` is meant to be used together with a polymorph `/mod`, such as `BEAST_SHAPE`. This will generate the attacks (primary and/or secondary) and natural weapons associated with a particular creature's shape. In addition, it will list any speeds, senses, or special abilities you may receive from taking the creature's shape. Be sure to follow the particular spell's allowances, as many creatures are listed with their maximum possible features.
+`/shape` is meant to be used together with a polymorph `/preset-mod`, such as `BEAST_SHAPE`. This will generate the attacks (primary and/or secondary) and natural weapons associated with a particular creature's shape. In addition, it will list any speeds, senses, or special abilities you may receive from taking the creature's shape. Be sure to follow the particular spell's allowances, as many creatures are listed with their maximum possible features.
 
 ![shape](https://user-images.githubusercontent.com/10622391/192065898-00161ce4-7775-4b49-b7bf-34c11d8631d3.jpg)
 
