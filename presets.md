@@ -14,6 +14,22 @@ usage: /preset-armor `number-or-name` `enhancement`
 This command will apply the stats gained from a specific set of armor (or a shield) to an active character. For shields, this applies a shield bonus to AC and skill check penalties. For armor, this applies an armor bonus to AC, skill check penalties, and max AC gained from Dexterity. It will attempt to remove any previous armor or shield bonuses respectively.
 
 
+### **-PRESET-MOD-**
+
+usage: /preset-mod `action` `mod-name` `targets`
+
+-:-
+
+`action`
+ - — `Add` Add a named mod
+ 
+ - — `Remove` Remove a named mod
+
+`mod-name` Name of the mod
+
+`targets` One or more targets using @mentions.
+
+
 ### **-PRESET-SHAPE-**
 
 usage: /shape `number-or-name` `hit-mod` `multi-attack`
