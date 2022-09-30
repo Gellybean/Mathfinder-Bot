@@ -1,6 +1,6 @@
 ## **CHARACTER**
 
-usage: /char `mode` `char-name` `game`
+usage: /char `mode` `char-name-or-number` `game`
 
 -:-
 
