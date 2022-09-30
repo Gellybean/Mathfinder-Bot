@@ -1,6 +1,6 @@
 ## INIT
 
-usage: /init `option` `expr` `isPrivate` `initSave`
+usage: /init `option` `expr` `initSave`
 
 `option`
  - —`Add` Using this option, you can add in a single member to initiative. This will automatically roll their init, but they will remain at the bottom until sorted.
@@ -29,4 +29,11 @@ usage: /init `option` `expr` `isPrivate` `initSave`
    - `initSave` Drop your file into this field.
  
  - —`Save` Save current initiative.
+
+## Next
+
+usage: /next
+
+### Remarks
+This command is seperated for ease-of-use when dealing with an active initiative. Use `/next` to cycle through.
  
