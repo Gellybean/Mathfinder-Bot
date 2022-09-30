@@ -6,6 +6,9 @@ usage: /char-update `sheet-type` `file`
 
 `sheet-type`
 
+ - —`JSON` Mathfinder export.
+   - Using this option will override the entire sheet, other than character name.
+
  - —`Pathbuilder` Pathbuilder PDF export.
    - Pathbuilder's PDF export is actually a fillable. This allows you to easily change the values before dropping it in. The parser will attempt to automatically create expression rows (buttons) for your attacks, which means you can create the expressions you want in the attack and damage fields. You can then call the attack(s) using /row with the given name. 
 
@@ -28,4 +31,4 @@ this will create a row with a button that represents `1d20+ATK_DEX` for hit (the
 
 
 #### Remarks
-This feature is meant to update your character at each level (or whenever you feel like it) by importing a character sheet from a program more suited for character advancement. It should not remove any custom made stats, but most default stats will be overwritten.
+This feature is meant to update your character at each level (or whenever you feel like it) by importing a character sheet from a program more suited for character advancement. Other than the Mathfinder export, it should not remove or change any custom made stats.
