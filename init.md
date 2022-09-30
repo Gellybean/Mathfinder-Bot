@@ -1,4 +1,4 @@
-### INIT
+## INIT
 
 usage: /init `option` `expr` `isPrivate` `initSave`
 
