@@ -45,7 +45,7 @@ The `BASE` type is a special bonus that overrides all other values, including th
 
 
 ## Functions
-Functions are special commands that generally take arguments and return a value.
+Functions are special commands that (generally) take arguments and return a value.
 
 Reffering to the strength modifier above, you can instead use the `mod` function to do the same thing.
 
