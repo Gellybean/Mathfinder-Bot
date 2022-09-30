@@ -11,9 +11,9 @@ usage: /init `option` `expr` `isPrivate` `initSave`
  
  - —`List` List entire initiative.
  
- - —`Roll` Randomly roll all initiative
+ - —`Roll` Randomly roll all initiatives using each member's bonus.
    
- - —`Sort` Sort initiative.
+ - —`Sort` Sort initiative. Generally used after the Roll or Add command.
  
  - —`Move` Move any member to the current turn of initiative.
    - `expr` The index number of the member to move.
