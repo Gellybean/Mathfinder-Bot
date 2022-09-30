@@ -77,8 +77,6 @@ While you can setup a character by manually modifying each value, this is not id
 ## Command Reference
 Almost all variable names are SCREAMING_SNAKE_CASE (like `SHORT_SWORD` or `STR_SCORE`). However, when calling them, they are not case-sensitive (`short_sword` will work in place of `SHORT_SWORD`). When using options like preset commands or calling a row, you can use spaces in place of underscores. hiss.
 
-There are also `dm` versions of some commands, which add an additional `target` option for selecting other player's active sheets. These require the `DM` role.
-
 [/char](https://github.com/Gellybean/Mathfinder-Bot/blob/main/char.md)
 
 [/char-update](https://github.com/Gellybean/Mathfinder-Bot/blob/main/char-update.md)
