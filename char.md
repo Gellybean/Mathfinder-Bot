@@ -20,7 +20,7 @@ usage: /char `mode` `char-name-or-number` `game`
 
  - —`List` This will list any created characters you have.
 
- - —`Export` *EXPERIMENTAL.* This will export any active character into JSON format.
+ - —`Export` This will export any active character into JSON format.
 
  - —`Delete` Delete a character.
    - `char-name-or-number` The name or index number of the character to delete. This will prompt you for confirmation.
