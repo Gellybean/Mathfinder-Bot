@@ -42,6 +42,8 @@
 ["ATK_BONUS_RNG"]   = 0,
 ["DMG_BONUS"]       = 0,
 
+["CL_BONUS"]        = 0,
+
 
 //skills
 ["SK_ACR"] = 0,
