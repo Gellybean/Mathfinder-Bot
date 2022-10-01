@@ -1,12 +1,12 @@
 ## **EVALUATE**
 
-usage: /eval `expr` `is-private` `targets`
+usage: /eval `expr` `is-hidden` `targets`
 
 -:-
 
 `expr` The expression to evaluate.
 
-`is-private` Whether or not the result is private (ephemeral).
+`is-hidden` Whether or not the result is a private message (ephemeral).
 
 `targets` *DM Role Only.* By using @mentions, you can eval one or multiple active characters at once.
 
