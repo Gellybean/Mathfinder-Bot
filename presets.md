@@ -29,7 +29,7 @@ usage: /preset-mod `action` `mod-name` `target`
 
 `target` *optional.* Target or targets using @mentions. Leave blank to target yourself.
 
-![mod0](https://user-images.githubusercontent.com/10622391/192043634-72ca55d6-5a9d-4936-8356-7eedff008113.jpg)
+![presetmod](https://user-images.githubusercontent.com/10622391/193415642-83cfe538-c638-4474-ba0b-7054e84f2b19.jpg)
 
 ![mod1](https://user-images.githubusercontent.com/10622391/192043649-46aa7dcc-0f48-4c53-b1a5-5d4198febdc4.jpg)
 
