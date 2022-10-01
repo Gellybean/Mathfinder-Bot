@@ -28,8 +28,6 @@ usage: /var `action` `var-name` `value`
  - —`List-Shapes` Lists all available creature shapes.
    - `value` *optional.* You can specify a value to get more detailed information on a single shape.
 
- - —`List-Crafts` List all active crafts.
-
  - —`Remove-Variable` Removes a Stat, Expression, Row, or Grid. 
    - `var-name` The variable name to remove.
 
