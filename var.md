@@ -7,8 +7,7 @@ usage: /var `action` `var-name` `value`
 `action`
 
  - —`Set-Expression` 
-   - `var-name` Name of the expression.
-   - `value` Expression to create. 
+   - `var-name` Name of the expression. This will bring up a seprate window. If the var-name already exists, the space will contain that value.
 
  - —`Set-Row` 
    - `var-name` Row name. This will bring up a modal window, where you can make up to 5 expressions. The syntax is `LABEL:EXPRESSION`. The label is optional—if omitted it will use the expression as the label.
