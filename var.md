@@ -1,4 +1,4 @@
-### **VAR**
+## **VAR**
 
 usage: /var `action` `var-name` `value`
 
