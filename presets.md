@@ -83,7 +83,6 @@ The syntax is `SPELLLEVEL:CLASSNAME`. This will use the aforementioned variabled
 If you have other modifiers that increase DC/CL, such as Spell Focus or that expensive Ioun stone (you know the one I'm talking about), there are built-in additions you can use. For example, you can modify your `CL_BONUS` stat, and it will automatically be added to you Caster Level. School, Subschool, and Descriptors are considered for each spell; For DCs and CLs, you can use variables like `DC_EVOCATION` and `CL_EVOCATION` respectively. Other examples include `DC_FIRE`, `DC_MIND_AFFECTING`.
 
 ### Remarks
-
 When the `expr` value is ignored, it will simply list the spell's info without any character-specific evaluations.
 
 
