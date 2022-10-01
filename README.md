@@ -18,6 +18,8 @@ While there are a number of features included with this bot, the main purpose is
 
 To help further with this, anyone with the `DM` role can do evaluations on their player's statblocks. As well, **anyone** can apply and remove preset modifiers to themselves and others. This means, for example, a Bard can apply his inspiration bonuses to his party with a command, or any cool Wizard can drop his most useful spell on the party... It's Haste—obviously.
 
+[Give it a go.](https://discord.com/api/oauth2/authorize?client_id=1003844628841238588&permissions=277025712192&scope=bot%20applications.commands)
+
 This is a big work in progress! I'm sure there are plenty of bugs to work out, and many improvements to make. 
 
 ## Stats & Expressions
