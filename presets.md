@@ -1,4 +1,4 @@
-## **-PRESET-ARMOR-**
+## **PRESET-ARMOR**
 
 usage: /preset-armor `number-or-name` `enhancement`
 
@@ -39,7 +39,7 @@ This command will add or remove a modifier to your current character. Some modif
 
 
 
-## **-PRESET-SHAPE-**
+## **PRESET-SHAPE**
 
 usage: /shape `number-or-name` `hit-mod` `multi-attack`
 
@@ -57,7 +57,7 @@ usage: /shape `number-or-name` `hit-mod` `multi-attack`
 ![shape](https://user-images.githubusercontent.com/10622391/192065898-00161ce4-7775-4b49-b7bf-34c11d8631d3.jpg)
 
 
-## **-PRESET-SPELL-**
+## **PRESET-SPELL**
 
 usage: /preset-spell `number-or-name` `expr`
 
@@ -86,7 +86,7 @@ If you have other modifiers that increase DC/CL, such as Spell Focus or that exp
 When the `expr` value is ignored, it will simply list the spell's info without any character-specific evaluations.
 
 
-## **-PRESET-WEAPON-**
+## **PRESET-WEAPON**
 
 usage: /preset-weapon `number-or-name` `hit-mod` `damage-mod` `hit-bonus` `dmg-bonus` `size`
 
