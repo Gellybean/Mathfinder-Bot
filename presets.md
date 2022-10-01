@@ -1,4 +1,4 @@
-### **-PRESET-ARMOR-**
+## **-PRESET-ARMOR-**
 
 usage: /preset-armor `number-or-name` `enhancement`
 
@@ -14,7 +14,7 @@ usage: /preset-armor `number-or-name` `enhancement`
 This command will apply the stats gained from a specific set of armor (or a shield) to an active character. For shields, this applies a shield bonus to AC and skill check penalties. For armor, this applies an armor bonus to AC, skill check penalties, and max AC gained from Dexterity. It will attempt to remove any previous armor or shield bonuses respectively.
 
 
-### **PRESET-MODIFIER**
+## **PRESET-MODIFIER**
 
 usage: /preset-mod `action` `mod-name` `target`
 
@@ -34,12 +34,12 @@ usage: /preset-mod `action` `mod-name` `target`
 ![mod1](https://user-images.githubusercontent.com/10622391/192043649-46aa7dcc-0f48-4c53-b1a5-5d4198febdc4.jpg)
 
 
-#### Remarks
+### Remarks
 This command will add or remove a modifier to your current character. Some modifiers contain sub-options, such as `BEAST_SHAPE` or any spell that scales with caster level. These options generally appear as buttons.
 
 
 
-### **-PRESET-SHAPE-**
+## **-PRESET-SHAPE-**
 
 usage: /shape `number-or-name` `hit-mod` `multi-attack`
 
@@ -51,13 +51,13 @@ usage: /shape `number-or-name` `hit-mod` `multi-attack`
 
 `multi-attack` *optional.* Set to true if you possess the `Multiattack` feat. This will adjust the penalty on your secondary attack.
  
-#### Remarks
+### Remarks
 `/shape` is meant to be used together with a polymorph `/preset-mod`, such as `BEAST_SHAPE`. This will generate the attacks (primary and/or secondary) and natural weapons associated with a particular creature's shape. In addition, it will list any speeds, senses, or special abilities you may receive from taking the creature's shape. Be sure to follow the particular spell's allowances, as many creatures are listed with their maximum possible features.
 
 ![shape](https://user-images.githubusercontent.com/10622391/192065898-00161ce4-7775-4b49-b7bf-34c11d8631d3.jpg)
 
 
-### **-PRESET-SPELL-**
+## **-PRESET-SPELL-**
 
 usage: /preset-spell `number-or-name` `expr`
 
@@ -86,7 +86,7 @@ If you have other modifiers that increase DC/CL, such as Spell Focus or that exp
 When the `expr` value is ignored, it will simply list the spell's info without any character-specific evaluations.
 
 
-### **-PRESET-WEAPON-**
+## **-PRESET-WEAPON-**
 
 usage: /preset-weapon `number-or-name` `hit-mod` `damage-mod` `hit-bonus` `dmg-bonus` `size`
 
@@ -110,7 +110,7 @@ usage: /preset-weapon `number-or-name` `hit-mod` `damage-mod` `hit-bonus` `dmg-b
 ![weapon](https://user-images.githubusercontent.com/10622391/192163817-021abd3f-c883-40d6-a021-751cd17c653e.jpg)
 
 
-#### Remarks
+### Remarks
 You can use `/preset-save` with a `name` to save the last generated preset to your active character sheet.
 
 ![gsp1](https://user-images.githubusercontent.com/10622391/193103489-75e9736b-2517-4b50-8d4e-1587e9daaa77.jpg)
