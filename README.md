@@ -85,4 +85,5 @@ Almost all variable names are SCREAMING_SNAKE_CASE (like `SHORT_SWORD` or `STR_S
 - [/preset-x](https://github.com/Gellybean/Mathfinder-Bot/blob/main/presets.md)
 - [/var](https://github.com/Gellybean/Mathfinder-Bot/blob/main/var.md)
 - [/init](https://github.com/Gellybean/Mathfinder-Bot/blob/main/init.md)
+- [/req](https://github.com/Gellybean/Mathfinder-Bot/blob/main/req.md)
 
