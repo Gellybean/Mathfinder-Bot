@@ -1,6 +1,6 @@
 ## **VAR**
 
-usage: /var `action` `var-name` `value`
+usage: /var `action` `var-name`
 
 -:-
 
@@ -20,13 +20,13 @@ usage: /var `action` `var-name` `value`
  - —`List-Bonus` Lists all bonuses applied to stats.
 
  - —`List-Weapons` Lists all available weapons.
-   - `value` *optional.* You can specify a value to get more detailed information on a single weapon.
+   - `var-name` *optional.* You can specify a value to get more detailed information on a single weapon.
 
  - —`List-Armor` Lists all available armor.
-   - `value` *optional.* You can specify a value to get more detailed information on a piece of armor.
+   - `var-name` *optional.* You can specify a value to get more detailed information on a piece of armor.
  
  - —`List-Shapes` Lists all available creature shapes.
-   - `value` *optional.* You can specify a value to get more detailed information on a single shape.
+   - `var-name` *optional.* You can specify a value to get more detailed information on a single shape.
 
  - —`Remove-Variable` Removes a Stat, Expression, Row, or Grid. 
    - `var-name` The variable name to remove.
