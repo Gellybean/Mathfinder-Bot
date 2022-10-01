@@ -31,7 +31,7 @@ cmon
 ### Remarks
 `/eval` supports many different math operators: `+` `-` `*` `/` `>` `<` `==` `!=` `<=` `>=` `%` `()` `=` `+=` `-=` `*=` `/=` `&&` `||` `?:`. Use `/mf-help` on the bot for more examples.
 
-![dice](https://user-images.githubusercontent.com/10622391/193412138-fcaa7dc0-9109-4061-a325-99f5dc869019.jpg)
+![dice](https://user-images.githubusercontent.com/10622391/193412166-bbe724ef-3368-4946-ac7d-e5c19a079a1f.jpg)
 
 Dice expressions are also supported within any formula. `1d20` is a valid expression. You can also use rerolls and multipliers. `3d6r1` would "roll" 3 six-sided die, rerolling any dice that come up 1 (the initial roll only). `(3d6*2)` would effectively turn into `6d6`.
 
