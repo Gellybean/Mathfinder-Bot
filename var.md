@@ -16,10 +16,6 @@ usage: /var `action` `var-name` `value`
  - —`Set-Grid`
    - `var-name` Grid name. The same as Set-Row except you can specify rows instead of expressions.
 
- - —`Set-Craft` *EXPERIMENTAL.* This lets you set a mundane item to craft. 
-   - `var-name` Item name. 
-   - `value` DC to craft.
-
  - —`List-Vars` Lists all stats, expressions, rows, and grids.
 
  - —`List-Bonus` Lists all bonuses applied to stats.
