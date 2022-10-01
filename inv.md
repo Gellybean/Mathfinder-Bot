@@ -1,4 +1,4 @@
-### **INVENTORY**
+## **INVENTORY**
 
 usage: /inv `action` `item` `qty` `attachment`
 
