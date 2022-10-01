@@ -1,4 +1,4 @@
-### **CHARACTER-UPDATE**
+## **CHARACTER-UPDATE**
 
 usage: /char-update `sheet-type` `file`
 
@@ -30,5 +30,5 @@ this will create a row with a button that represents `1d20+ATK_DEX` for hit (the
 ![update](https://user-images.githubusercontent.com/10622391/192043907-a72d879d-9fed-42ce-a0df-050e60af9862.jpg)
 
 
-#### Remarks
+### Remarks
 This feature is meant to update your character at each level (or whenever you feel like it) by importing a character sheet from a program more suited for character advancement. Other than the Mathfinder export, it should not remove or change any custom made stats.
