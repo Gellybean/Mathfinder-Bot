@@ -30,7 +30,7 @@ usage: /init `option` `expr` `initSave`
  
  - —`Save` Save current initiative.
 
-## Next
+## NEXT
 
 usage: /next
 
