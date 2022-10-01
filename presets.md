@@ -59,18 +59,24 @@ usage: /shape `number-or-name` `hit-mod` `multi-attack`
 
 ### **-PRESET-SPELL-**
 
-usage: /preset-spell `number-or-name`
+usage: /preset-spell `number-or-name` `expr`
 
 -:-
 
 `number-or-name` The name or index number of the spell.
 
-![spell](https://user-images.githubusercontent.com/10622391/192415053-aa668953-967b-46e3-bcac-0f41ec91fd96.jpg)
+`expr` *optional.*  For this option to work properly, you need: 
+ - `CL_CLASSNAME` A stat representing your caster level with the desired class.
+ - `MOD_CLASSNAME` An expression representing your spellcasting ability score modifier.
 
+![clpsy](https://user-images.githubusercontent.com/10622391/193384381-c62a8e75-21e6-4557-b5ec-495258ff8060.jpg)
+![exprpsy](https://user-images.githubusercontent.com/10622391/193384422-1a2db1f8-2dc6-493d-83b8-2de25c8c8f86.jpg)
 
-#### Remarks
-This command currently has no interaction with the character sheet, but you can bring up any spell for reference.
+ The syntax is `SPELLLEVEL:CLASSNAME`. This will use the aforementioned variabled to calculate you Difficulty Class and Caster Level for the spell.
 
+![mt](https://user-images.githubusercontent.com/10622391/193384050-16149f05-4a81-4bc4-8992-1a82da112e45.jpg)
+
+If you have other modifiers that increase DC/CL, such as Spell Focus or that expensive Ioun stone (you know the one I'm talking about), there are built-in additions you can use. For example, you can modify your `CL_BONUS` stat, and it will automatically be added to you Caster Level. School, Subschool, and Descriptors are considered for each spell; For DCs and CLs, you can use variables like `DC_EVOCATION` and `CL_EVOCATION` respectively
 
 
 ### **-PRESET-WEAPON-**
