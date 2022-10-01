@@ -19,9 +19,14 @@ usage: /var `action` `var-name` `value`
 
  - —`List-Bonus` Lists all bonuses applied to stats.
 
- - —`List-Presets` Lists all weapon presets.
+ - —`List-Weapons` Lists all available weapons.
+   - `value` *optional.* You can specify a value to get more detailed information on a single weapon.
 
+ - —`List-Armor` Lists all available armor.
+   - `value` *optional.* You can specify a value to get more detailed information on a piece of armor.
+   - 
  - —`List-Shapes` Lists all available creature shapes.
+   - `value` *optional.* You can specify a value to get more detailed information on a single shape.
 
  - —`List-Crafts` List all active crafts.
 
