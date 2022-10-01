@@ -41,7 +41,7 @@ expressions
 
 
 ## Rows & Grids
-You can `/eval` and expressions individually, but the idea is to use Discords UI features for any frequently used actions. `Expression Rows` are used for this.
+You can `/eval` expressions individually, but the idea is to use Discords UI features for any frequently used actions. `Expression Rows` are used for this.
 
 ![expr](https://user-images.githubusercontent.com/10622391/193103316-36802b25-9370-4375-b8ff-3821b18ba8f9.jpg)
 
