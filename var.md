@@ -24,7 +24,6 @@ usage: /var `action` `var-name` `value`
 
  - —`List-Armor` Lists all available armor.
    - `value` *optional.* You can specify a value to get more detailed information on a piece of armor.
-   - 
  
  - —`List-Shapes` Lists all available creature shapes.
    - `value` *optional.* You can specify a value to get more detailed information on a single shape.
