@@ -24,6 +24,11 @@ To help further with this, anyone with the `DM` role can do evaluations on their
 
 This is a big work in progress! I'm sure there are plenty of bugs to work out, and many improvements to make. 
 
+## Getting Started
+To create a character, use the `/char` command with the `New` option. Select a name in the `char-name-or-number` field.
+
+Once you character is created, you can update it with an exported character sheet from a number from different programs, as well as any saved characters from Mathfinder. You can do this by using the `/char-update` command. See the /char reference below for more details.
+
 ## Stats & Expressions
 Statblocks contain two primary values: Stats and Expressions. 
 
