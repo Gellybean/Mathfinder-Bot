@@ -65,7 +65,7 @@ usage: /preset-spell `number-or-name` `expr`
 
 `number-or-name` The name or index number of the spell. Use /var List-Spells to get a full list.
 
-`expr` The spell expression. For this option to work properly, you need: 
+`expr` The spell expression. The syntax is `SPELLLEVEL:CLASSNAME`. For this option to work properly, you need: 
  - `CL_CLASSNAME` A stat representing your caster level with the desired class.
  - `MOD_CLASSNAME` An expression representing your spellcasting ability score modifier.
 
@@ -74,8 +74,6 @@ usage: /preset-spell `number-or-name` `expr`
 ![clpsy](https://user-images.githubusercontent.com/10622391/193384381-c62a8e75-21e6-4557-b5ec-495258ff8060.jpg)
 ![exprpsy](https://user-images.githubusercontent.com/10622391/193384422-1a2db1f8-2dc6-493d-83b8-2de25c8c8f86.jpg)
 
-The syntax is `SPELLLEVEL:CLASSNAME`. This will use the aforementioned variabled to calculate you Difficulty Class and Caster Level for the spell.
- 
 ![psy](https://user-images.githubusercontent.com/10622391/193386057-bf25a232-12b3-4eed-a4cb-754ec334422e.jpg)
 
 ![mt](https://user-images.githubusercontent.com/10622391/193384050-16149f05-4a81-4bc4-8992-1a82da112e45.jpg)
