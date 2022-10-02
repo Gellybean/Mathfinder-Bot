@@ -20,7 +20,7 @@ To help further with this, anyone with the `DM` role can do evaluations on their
 
  - [Bot Invite.](https://discord.com/api/oauth2/authorize?client_id=1003844628841238588&permissions=277025712192&scope=bot%20applications.commands)
 
- - [Give it a try on the MF Discord.](https://discord.gg/z2rVRnVjb7)
+ - [Give it a try on our Discord.](https://discord.gg/z2rVRnVjb7)
 
 This is a big work in progress! I'm sure there are plenty of bugs to work out, and many improvements to make. 
 
