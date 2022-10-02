@@ -63,9 +63,9 @@ usage: /preset-spell `number-or-name` `expr`
 
 -:-
 
-`number-or-name` The name or index number of the spell. When the `expr` value is ignored, it will simply list the spell's info without any character-specific evaluations.
+`number-or-name` The name or index number of the spell. Use /var List-Spells to get a full list.
 
-`expr` *optional.*  For this option to work properly, you need: 
+`expr` The spell expression. For this option to work properly, you need: 
  - `CL_CLASSNAME` A stat representing your caster level with the desired class.
  - `MOD_CLASSNAME` An expression representing your spellcasting ability score modifier.
 
