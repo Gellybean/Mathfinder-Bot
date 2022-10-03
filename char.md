@@ -49,6 +49,8 @@ this will create a row with a button that represents `1d20+ATK_DEX` for hit (the
  - —`HeroLabs` HeroLabs XML export.
 
  - —`PCGen` Export using the `csheet_fantasy_rpgwebprofiler.xml` option.
+ 
+ - —`Mottokrosh` JSON export.
 
 
 `file`
