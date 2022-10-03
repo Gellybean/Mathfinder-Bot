@@ -84,6 +84,9 @@ While you can setup a character by manually modifying each value, this is not id
 ### Pathbuilder
  - Using the exported PDF
 
+### Mottokrosh's Character Sheet
+ - Using the JSON export
+
 *NOTE* — There are specific limitation when parsing different sheets. For instance, not all bonus types may be known for a given stat, and cannot be applied accurately, but the totals should remain correct. This can affect the proper calculation of stacking bonuses. I do my best!
 
 
