@@ -130,7 +130,7 @@ As a last example, we can combine it with an attack roll: `ATK_STR + th(PA_ATK)`
 ### -> Does it support getting X to Y?
 *from /r/Elgatee*
 
-A common example would be changing your Intimidate skill to use Strength instead of Charisma via [Bruising Intellect.](https://www.aonprd.com/TraitDisplay.aspx?ItemName=Bruising%20Intellect)
+A common example would be changing your Intimidate skill to use Strength instead of Charisma via [Intimidating Prowess.](https://aonprd.com/FeatDisplay.aspx?ItemName=Intimidating%20Prowess)
 
 The default [expression](https://github.com/Gellybean/Mathfinder-Bot/wiki/var#var) for Intimidate (`ITM`) is: `1d20 + CHA + SK_ALL + SK_ITM`.
 
