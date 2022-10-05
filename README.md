@@ -132,9 +132,9 @@ As a last example, we can combine it with an attack roll: `ATK_STR + th(PA_ATK)`
 
 A common example would be changing your Intimidate skill to use Strength instead of Charisma via [Intimidating Prowess.](https://aonprd.com/FeatDisplay.aspx?ItemName=Intimidating%20Prowess)
 
-The default [expression](https://github.com/Gellybean/Mathfinder-Bot/wiki/var#var) for Intimidate (`ITM`) is: `1d20 + CHA + SK_ALL + SK_ITM`.
+The default expression for Intimidate (`ITM`) is: `1d20 + CHA + SK_ALL + SK_ITM`.
 
-You can use `/var` with the `Set-Expression` action and `ITM` as the var-name. This will bring up a window with the original expression. Just change CHA to STR:
+You can use [`/var`](https://github.com/Gellybean/Mathfinder-Bot/wiki/var#var) with the `Set-Expression` action and `ITM` as the var-name. This will bring up a window with the original expression. Just change CHA to STR:
 
 ![setexpr](https://user-images.githubusercontent.com/10622391/194178322-48c6c21a-508c-4107-ac1e-77a7d9f7f537.jpg)
 
