@@ -108,5 +108,7 @@ For something like Power Attack, creating a variable is more useful, since it re
  - Power Attack - hit: `1 + BAB/4`
  - Power Attack - damage : `2 + (BAB/4 * 2)`
 
+Since receiving this question, I've added default expressions representing both: `PA_ATK` and `PA_DMG` respectively.
+
 
 
