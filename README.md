@@ -4,7 +4,7 @@ Mathfinder is a Discord bot built as a stat-tracker for Pathfinder 1e. Its featu
 
 - A math engine you can use to create useful expressions for your character, used together with a
 - Fully customizable statblock that holds all of your variables
-- Character sheet imports from other programs (PCGen, Pathbuilder, HeroLabs)
+- Character sheet imports from other programs (PCGen, Pathbuilder, HeroLabs, Mottokrosh)
 - Apply spells, effects, conditions to your character and your party (using mentions)
 - Turn expressions into buttons which you can call in rows and grids for easy access
 - Modifiable presets for weapons, armor, and creature shapes
