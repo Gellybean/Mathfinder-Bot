@@ -116,7 +116,9 @@ Most people are probably going to use Power Attack two-handed. This is where [fu
 
  - Power Attack (two-handed) - hit: `th(PA_ATK)`
  - Power Attack (two-handed) damage: `th(PA_DMG)`
+
 -:-
+ 
  - Power Attack (off-handed) hit: `oh(PA_ATK)`
  - Power Attack (off-handed) damage: `oh(PA_ATK)`
 
