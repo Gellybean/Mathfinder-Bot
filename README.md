@@ -122,6 +122,23 @@ Most people are probably going to use Power Attack two-handed. This is where [fu
  - Power Attack (off-handed) hit: `oh(PA_ATK)`
  - Power Attack (off-handed) damage: `oh(PA_DMG)`
 
-As a last example, we can combine it with an attack roll: `ATK_STR + th(PA_ATK)` and a damage roll: `DMG_STR + th(PA_DMG)`.  
+As a last example, we can combine it with an attack roll: `ATK_STR + th(PA_ATK)` and a damage roll: `DMG_STR + th(PA_DMG)`.
+
+
+### Does it support getting X to Y?
+*from /r/Elgatee*
+
+A common example would be changing your Intimidate skill to use Strength instead of Charisma via [Bruising Intellect.](https://www.aonprd.com/TraitDisplay.aspx?ItemName=Bruising%20Intellect)
+
+The default expression for Intimidate (`ITM`) is: `1d20 + CHA + SK_ALL + SK_ITM`.
+
+You can use `/var` with the `Set-Expression` action and `ITM` as the var-name. This will bring up a window with the original expression. Just change CHA to STR:
+
+![setexpr](https://user-images.githubusercontent.com/10622391/194178322-48c6c21a-508c-4107-ac1e-77a7d9f7f537.jpg)
+
+![setexpr1](https://user-images.githubusercontent.com/10622391/194178335-83108d2f-ff01-4436-9e89-285d810d4282.jpg)
+
+
+
 
 
