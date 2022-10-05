@@ -45,7 +45,11 @@ Each `Stat` contains a base value, as well as a list of bonuses. Each `Bonus` co
 
 For usability, stats and expressions share a pool of variable names.
 
-*NOTE* — The default character sheet contains a number of both stats and expressions that represent the values you would find on any standard character sheet. This includes ability scores, saves, skills, cmb/cmd, modifiers, etc. Other than class-specific features, you should find most of what you need; the goal is minimal setup with the freedom to customize how you want. To view these values, use `/var` with the `List-Vars` option.
+*NOTE* — The default character sheet contains a number of both stats and expressions that represent the values you would find on any standard character sheet. This includes ability scores, saves, skills, cmb/cmd, modifiers, etc. Many of these values are important when using certain features, such as preset modifiers, that affect specific variables.
+
+That said, You can do anything you want. If you have in-depth homebrew rules that involve custom stats, skills, spells—whatever—you can fully customize your statblock. This means you can add, remove, change any single variable (stats, expressions, rows, grids).
+
+To view these values, use `/var` with the `List-Vars` option.
 
 stats
 
