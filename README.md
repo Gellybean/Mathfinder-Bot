@@ -105,7 +105,7 @@ While you can setup a character by manually modifying each value, this is not id
 
 For Vital Strike, you would need to multiply the weapon's damage dice (for example, 3d6) like this: `(3d6*2)`. This works just **fine**, but you could get a little fancier and create a variable that holds the multiplier, for example, `VS`. You could then do `(3d6*VS)`. If you were to ever get Improved VS, you could change the single value `VS` from 2 to 3. If you only have a single attack relying on Vital Strike, this is probably overkill.
 
-For something like *Power Attack*, creating a variable is more useful, since it relies upon a value that scales with your level.
+For something like *Power Attack*, however, creating a variable is more useful, since it relies upon a value that scales with your level.
 
  - Power Attack - hit: `1 + BAB/4`
  - Power Attack - damage : `2 + (BAB/4 * 2)`
