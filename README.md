@@ -105,8 +105,8 @@ For Vital Strike, you would need to multiply the weapon's damage dice (for examp
 
 For something like Power Attack, creating a variable is more useful, since it relies upon a value that scales with your level.
 
-Power Attack - hit: `1 + BAB/4`
-Power Attack - damage : `2 + (BAB/4 * 2)`
+ - Power Attack - hit: `1 + BAB/4`
+ - Power Attack - damage : `2 + (BAB/4 * 2)`
 
 
 
