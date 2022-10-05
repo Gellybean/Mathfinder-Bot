@@ -151,5 +151,7 @@ First, create a new `Stat` using [`/eval`](https://github.com/Gellybean/Mathfind
 
 ![sk](https://user-images.githubusercontent.com/10622391/194179766-0bdd32dd-7cb7-4261-aa3b-4e6f9fd402a0.jpg)
 
-Then, create a new expression using `/var` `Set-Expression` with a given var-name. You can use the X to Y example above as a blueprint for how your skill may be calculated. *NOTE* — `SK_ALL` is a variable created for convenience purposes, mainly for modifiers that affect all skills. It is not required, but may cause problems with certain features, like preset-mods and certain character imports. I would recommend keeping it in all custom skill formulae unless you have a specific reason not to.
+Then, create a new expression using `/var` `Set-Expression` with a given var-name (I use just the three-letter abbreviation for all my expressions. It is often better to keep your expression names short because they are called directly more often). You can use the X to Y example above as a blueprint for how your skill may be calculated. 
+
+*NOTE* — `SK_ALL` is a variable created for convenience purposes, mainly for modifiers that affect all skills. It is not required, but may cause problems with certain features, like preset-mods and certain character imports. I would recommend keeping it in all custom skill formulae unless you have a specific reason not to.
 
