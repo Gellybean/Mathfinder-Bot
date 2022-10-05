@@ -110,13 +110,13 @@ For something like *Power Attack*, creating a variable is more useful, since it 
  - Power Attack - hit: `1 + BAB/4`
  - Power Attack - damage : `2 + (BAB/4 * 2)`
 
-Since receiving this question, I've added default expressions representing both: `PA_ATK` and `PA_DMG` respectively.
+Since receiving this question, I've added default expressions representing both: `PA_ATK` and `PA_DMG`.
 
-However, most people are probably going to use Power Attack two-handed. This is where [functions](https://github.com/Gellybean/Mathfinder-Bot/wiki/eval#functions) come in handy.
+Most people are probably going to use Power Attack two-handed. This is where [functions](https://github.com/Gellybean/Mathfinder-Bot/wiki/eval#functions) come in handy.
 
  - Power Attack (two-handed) - hit: `th(PA_ATK)`
  - Power Attack (two-handed) damage: `th(PA_DMG)`
-
+-:-
  - Power Attack (off-handed) hit: `oh(PA_ATK)`
  - Power Attack (off-handed) damage: `oh(PA_ATK)`
 
