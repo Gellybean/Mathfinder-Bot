@@ -100,7 +100,7 @@ While you can setup a character by manually modifying each value, this is not id
 
 ## FAQ
 
-### Does it support things beyond basic actions? (like attack type feats? Vital strike?)
+### -> Does it support things beyond basic actions? (like attack type feats? Vital strike?)
 *from /r/Elgatee*
 
 For Vital Strike, you would need to multiply the weapon's damage dice (for example, 3d6) like this: `(3d6*2)`. This works just **fine**, but you could get a little fancier and create a variable that holds the multiplier, for example, `VS`. You could then do `(3d6*VS)`. If you were to ever get Improved VS, you could change the single value `VS` from 2 to 3. If you only have a single attack relying on Vital Strike, this is overkill.
@@ -125,7 +125,7 @@ Most people are probably going to use Power Attack two-handed. This is where [fu
 As a last example, we can combine it with an attack roll: `ATK_STR + th(PA_ATK)` and a damage roll: `DMG_STR + th(PA_DMG)`.
 
 
-### Does it support getting X to Y?
+### -> Does it support getting X to Y?
 *from /r/Elgatee*
 
 A common example would be changing your Intimidate skill to use Strength instead of Charisma via [Bruising Intellect.](https://www.aonprd.com/TraitDisplay.aspx?ItemName=Bruising%20Intellect)
@@ -140,7 +140,7 @@ You can use `/var` with the `Set-Expression` action and `ITM` as the var-name. T
 ![setexpr2](https://user-images.githubusercontent.com/10622391/194178823-343919f1-2cde-4bbb-af74-8a76b4cd6688.jpg)
 
 
-### Does it support custom skills?
+### -> Does it support custom skills?
 *from /r/Elgatee* (great questions all around)
 
 Yep. While there are a number of ways to accomplish this, I will use the methods I use in the default statblock.
