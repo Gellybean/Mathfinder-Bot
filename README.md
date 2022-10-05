@@ -110,5 +110,7 @@ For something like Power Attack, creating a variable is more useful, since it re
 
 Since receiving this question, I've added default expressions representing both: `PA_ATK` and `PA_DMG` respectively.
 
+However, most people are probably going to use Power Attack two-handed. This is where [functions](https://github.com/Gellybean/Mathfinder-Bot/wiki/eval#functions) come in handy
+
 
 
