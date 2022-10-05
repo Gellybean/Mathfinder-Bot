@@ -120,7 +120,7 @@ Most people are probably going to use Power Attack two-handed. This is where [fu
 -:-                                        -:-
  
  - Power Attack (off-handed) hit: `oh(PA_ATK)`
- - Power Attack (off-handed) damage: `oh(PA_ATK)`
+ - Power Attack (off-handed) damage: `oh(PA_DMG)`
 
 As a last example, we can combine it with an attack roll: `ATK_STR + th(PA_ATK)` and a damage roll: `DMG_STR + th(PA_DMG)`.  
 
