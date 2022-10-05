@@ -114,11 +114,10 @@ Since receiving this question, I've added default expressions representing both:
 
 However, most people are probably going to use Power Attack two-handed. This is where [functions](https://github.com/Gellybean/Mathfinder-Bot/wiki/eval#functions) come in handy.
 
- - Power Attack - hit - two-handed: `th(PA_ATK)`
- - Power Attack - damage - two-handed: `th(PA_DMG)`
+ - Power Attack (two-handed) - hit: `th(PA_ATK)`
+ - Power Attack (two-handed) damage: `th(PA_DMG)`
 
- 
- - Power Attack - hit - off-handed: `oh(PA_ATK)`
- - Power Attack - damage - off-handed: `oh(PA_ATK)`
+ - Power Attack (off-handed) hit: `oh(PA_ATK)`
+ - Power Attack (off-handed) damage: `oh(PA_ATK)`
 
 
