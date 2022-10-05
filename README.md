@@ -22,7 +22,7 @@ To help further with this, anyone with the `DM` role can do evaluations on their
 
  - [Give it a try on our Discord.](https://discord.gg/z2rVRnVjb7)
  
- - [Check out the Wiki for commands.](https://github.com/Gellybean/Mathfinder-Bot/wiki/%25Mathfinder-Reference)
+ - [Check out the Wiki for the command reference.](https://github.com/Gellybean/Mathfinder-Bot/wiki/%25Mathfinder-Reference)
 
 This is a big work in progress! I'm sure there are plenty of bugs to work out, and many improvements to make. 
 
