@@ -130,7 +130,7 @@ As a last example, we can combine it with an attack roll: `ATK_STR + th(PA_ATK)`
 
 A common example would be changing your Intimidate skill to use Strength instead of Charisma via [Bruising Intellect.](https://www.aonprd.com/TraitDisplay.aspx?ItemName=Bruising%20Intellect)
 
-The default expression for Intimidate (`ITM`) is: `1d20 + CHA + SK_ALL + SK_ITM`.
+The default [expression](https://github.com/Gellybean/Mathfinder-Bot/wiki/var#var) for Intimidate (`ITM`) is: `1d20 + CHA + SK_ALL + SK_ITM`.
 
 You can use `/var` with the `Set-Expression` action and `ITM` as the var-name. This will bring up a window with the original expression. Just change CHA to STR:
 
@@ -140,5 +140,14 @@ You can use `/var` with the `Set-Expression` action and `ITM` as the var-name. T
 ![setexpr2](https://user-images.githubusercontent.com/10622391/194178823-343919f1-2cde-4bbb-af74-8a76b4cd6688.jpg)
 
 
+### Does it support custom skills?
+*from /r/Elgatee* (great questions all around)
 
+Yep. While there are a number of ways to accomplish this, I will use the methods I use in the default statblock.
+
+First, create a new `Stat` using [`/eval`](https://github.com/Gellybean/Mathfinder-Bot/wiki/eval) to assign a new variable.
+
+![sk](https://user-images.githubusercontent.com/10622391/194179766-0bdd32dd-7cb7-4261-aa3b-4e6f9fd402a0.jpg)
+
+Then, create a new expression using `/var` `Set-Expression` with a given var-name. You can use the X to Y example above as a blueprint for how your skill may be calculated. *NOTE* — `SK_ALL` is a variable created for convenience purposes, typically for modifiers that affect all skills. It is not required, but may cause problems with certain features, like preset-mods and certain character imports.
 
