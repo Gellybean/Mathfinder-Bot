@@ -103,7 +103,7 @@ While you can setup a character by manually modifying each value, this is not id
 ### -> Does it support things beyond basic actions? (like attack type feats? Vital strike?)
 *from /r/Elgatee*
 
-For Vital Strike, you would need to multiply the weapon's damage dice (for example, 3d6) like this: `(3d6*2)`. This works just **fine**, but you could get a little fancier and create a variable that holds the multiplier, for example, `VS`. You could then do `(3d6*VS)`. If you were to ever get Improved VS, you could change the single value `VS` from 2 to 3. If you only have a single attack relying on Vital Strike, this is probably overkill.
+For Vital Strike, you would need to multiply the weapon's damage dice (for example, 3d6) like this: `(3d6*2)`. This works just **fine**, but you could get a little fancier and create a variable that holds the multiplier, for example, `VS`. You could then do `(3d6*VS)`. If you were to ever get Improved VS, you could change the single value `VS` from 2 to 3. If you only have a single weapon relying on Vital Strike, this is probably overkill.
 
 ![expr3](https://user-images.githubusercontent.com/10622391/194180919-4701f99f-0d71-44ff-a7b2-fb9bbd4da515.jpg)
 
