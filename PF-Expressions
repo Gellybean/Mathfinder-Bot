@@ -37,6 +37,9 @@
 ["DMG_WIS"] = "(WIS + (WIS_TEMP / 2)) - (min(WIS_SCORE $ ENHANCEMENT, WIS_TEMP $ ENHANCEMENT) / 2) + DMG_BONUS",
 ["DMG_CHA"] = "(CHA + (CHA_TEMP / 2)) - (min(CHA_SCORE $ ENHANCEMENT, CHA_TEMP $ ENHANCEMENT) / 2) + DMG_BONUS",
 
+["PA_ATK"] = "1 + BAB/4",
+["PA_DMG"] = "2 + (BAB/4 * 2)",
+
 //skills
 ["ACR"] = "1d20 + DEX + SK_ALL + SK_ACR + AC_PENALTY",
 ["APR"] = "1d20 + INT + SK_ALL + SK_APR",
