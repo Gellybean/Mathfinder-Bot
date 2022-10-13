@@ -28,7 +28,7 @@ To help further with this, anyone with the `DM` role can do evaluations on their
  
  - [Command reference.](https://github.com/Gellybean/Mathfinder-Bot/wiki/%25Mathfinder-Reference)
 
-This is a big work in progress! I'm sure there are plenty of bugs to work out, and many improvements to make. 
+This is a big work in progress! I'm sure there are plenty of bugs to work out, and many improvements to make. Please feel free to let me know on Discord or GH. 
 
 ## Getting Started
 To create a character, use the `/char` command with the `New` option. Select a name in the `char-name-or-number` field.
