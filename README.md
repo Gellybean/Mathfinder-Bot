@@ -19,6 +19,8 @@ While there are a number of features included with this bot, the main purpose is
 
 To help further with this, anyone with the `DM` role can do evaluations on their player's statblocks. As well, **anyone** can apply and remove preset modifiers to themselves and others. This means, for example, a Bard can apply his inspiration bonuses to his party with a command, or any cool Wizard can drop his most useful spell on the party...
 
+![mf](https://user-images.githubusercontent.com/10622391/195958496-244ea1a9-94af-45fb-9ba8-022d5daf1ee8.jpg)
+
 ![imcool](https://user-images.githubusercontent.com/10622391/194164506-18d2e541-d76a-4b63-8368-ccf8925e160b.jpg)
 
 
