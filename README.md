@@ -83,7 +83,7 @@ my acrobatics isn't good. nice roll though!
 
 ## Presets
 
-MF-Bot comes with many different presets for things like equipment, creatures, stat modifiers including spells and conditions. Bring up attacks for different creatures, as well as beast shape and similar effects.
+MF-Bot comes with many different presets for things like equipment, creatures, stat modifiers including spells and conditions. You can bring up pre-programmed attacks for creatures, or use your own stats when selecting different creature shapes.
 
 ![addu](https://user-images.githubusercontent.com/10622391/195958771-d8bb7c7f-6b13-49ce-b526-6ebba115b758.jpg)
 
