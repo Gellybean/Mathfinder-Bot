@@ -132,10 +132,10 @@ Most people are probably going to use Power Attack two-handed. This is where [fu
  - Power Attack (off-handed) damage: `oh(PA_DMG)`
 
 As a last example, we can combine it with 
- - an attack roll: `ATK_STR + th(PA_ATK)` 
- - and a damage roll: `DMG_STR + th(PA_DMG)`. 
+ - an attack roll: `ATK_STR + th(PA_ATK)`. We could call this `PA_A` to make it even shorter.
+ - and a damage roll: `DMG_STR + th(PA_DMG)`. Like above, we could call this one `PA_D`
 
-I would suggest putting weapon expressions into a `/row`, as opposed to directly into your character sheet. You can do this by using `/var` and `Set-Row`.
+The attack and damage rolls would be modifiers for any attack you'd wish to use it with. For example, you would add +1 to the attack roll with a masterwork weapon. For damage, of course, add your weapons dice or any additional modifiers: `2d6 + PA_D`. I would suggest putting weapon expressions into a `/row`, as opposed to directly into your character sheet. You can do this by using `/var` and `Set-Row`.
 
 
 ### -> Does it support getting X to Y?
