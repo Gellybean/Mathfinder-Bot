@@ -20,30 +20,54 @@
 ["WIS_TEMP"] = 0,
 ["CHA_TEMP"] = 0,
 
+["SAVES_BONUS"] = 0,
 ["FORT_BONUS"]  = 0,
 ["REF_BONUS"]   = 0,
-["WILL_BONUS"]  = 0,
-["SAVES_ALL"]   = 0,
+["WILL_BONUS"]  = 0,                    
 
-["MOVE"] = 0,
+["MOVE_BONUS"]  = 0,
+["MOVE"]        = 0,
+["MOVE_BURROW"] = 0,
+["MOVE_CLIMB"]  = 0,
+["MOVE_FLY"]    = 0,
+["MOVE_SWIM"]   = 0,
 
 ["BAB"] = 0,
 
 ["INIT_BONUS"]  = 0,
-["CMB_BONUS"]   = 0,
-["CMD_BONUS"]   = 0,
+
+["CMB_BONUS"]       = 0,
+["CMB_BULL"]        = 0,
+["CMB_DIRTY"]       = 0,
+["CMB_DISARM"]      = 0,
+["CMB_OVERRUN"]     = 0,
+["CMB_REPOSITION"]  = 0,
+["CMB_STEAL"]       = 0,
+["CMB_SUNDER"]      = 0,
+["CMB_TRIP"]        = 0,
+
+["CMD_BONUS"]       = 0,
+["CMD_BULL"]        = 0,
+["CMD_DIRTY"]       = 0,
+["CMD_DISARM"]      = 0,
+["CMD_OVERRUN"]     = 0,
+["CMD_REPOSITION"]  = 0,
+["CMD_STEAL"]       = 0,
+["CMD_SUNDER"]      = 0,
+["CMD_TRIP"]        = 0,
 
 ["AC_BONUS"]    = 0,
 ["AC_MAXDEX"]   = 99,
 ["AC_PENALTY"]  = 0,
 
-["ATK_BONUS"]       = 0,
-["ATK_BONUS_MLE"]   = 0,
-["ATK_BONUS_RNG"]   = 0,
-["DMG_BONUS"]       = 0,
+["ATK_BONUS"]           = 0,
+["ATK_BONUS_MELEE"]     = 0,
+["ATK_BONUS_RANGED"]    = 0,
+["DMG_BONUS"]           = 0,
+["DMG_BONUS_MELEE"]     = 0,
+["DMG_BONUS_RANGED"]    = 0,
 
-["CL_BONUS"]        = 0,
-
+["CL_BONUS"]            = 0,
 
 //skills
 ["SK_ACR"] = 0,
