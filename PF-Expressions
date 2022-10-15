@@ -19,6 +19,17 @@
 ["FLAT"]    = "AC - ((AC_BONUS $ DODGE) + DEX)",
 
 ["CMB"]     = "1d20 + BAB + STR + CMB_BONUS - SIZE_MOD",
+
+["BULLRUSH"]    = "CMB + CMB_GRAPPLE",    
+["DIRTY"]       = "CMB + CMB_DIRTY",
+["DISARM"]      = "CMB + CMB_DISARM",
+["OVERRUN"]     = "CMB + CMB_OVERRUN",
+["REPOSITION"]  = "CMB + CMB_REPOSITION",
+["STEAL"]       = "CMB + CMB_STEAL",
+["SUNDER"]      = "CMB + CMB_SUNDER",
+["TRIP"]        = "CMB + CMB_TRIP",
+
+
 ["CMD"]     = "10 + BAB + STR + DEX + CMD_BONUS + ((AC_BONUS $ CIRCUMSTANCE) + (AC_BONUS $ DEFLECTION) + (AC_BONUS $ DODGE) + (AC_BONUS $ INSIGHT) + (AC_BONUS $ LUCK) + (AC_BONUS $ MORALE) + (AC_BONUS $ PROFANE) + (AC_BONUS $ SACRED))  - SIZE_MOD",
 
 ["ATK"]     = "BAB + SIZE_MOD + ATK_BONUS",
