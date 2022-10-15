@@ -30,11 +30,11 @@ To help further with this, anyone with the `DM` role can do evaluations on their
 This is a big work in progress! I'm sure there are plenty of bugs to work out, and many improvements to make. Please feel free to let me know on Discord or GH. 
 
 ## Getting Started
-To create a character, use the `/char` command with the `New` option. Select a name in the `char-name-or-number` field.
+To create a character, use the [`/char`](https://github.com/Gellybean/Mathfinder-Bot/wiki/char) command with the `New` option. Select a name in the `char-name-or-number` field.
 
 ![newchar](https://user-images.githubusercontent.com/10622391/193479275-7eeb6257-a91c-44ec-b41f-486731590e95.jpg)
 
-Once you character is created, you can update it with an exported character sheet from a number from different programs, as well as any saved characters from Mathfinder. You can do this by using the [`/char`](https://github.com/Gellybean/Mathfinder-Bot/wiki/char) command, using the `Update` action.
+Once you character is created, you can update it with an exported character sheet from a number from different programs, as well as any saved characters from Mathfinder. You can do this by using the `/char` command, using the `Update` action.
 
 ## Stats & Expressions
 Statblocks contain two primary values: Stats and Expressions. 
