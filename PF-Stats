@@ -37,7 +37,7 @@
 ["INIT_BONUS"]  = 0,
 
 ["CMB_BONUS"]       = 0,
-["CMB_BULL"]        = 0,
+["CMB_BULLRUSH"]        = 0,
 ["CMB_DIRTY"]       = 0,
 ["CMB_DISARM"]      = 0,
 ["CMB_OVERRUN"]     = 0,
@@ -47,7 +47,7 @@
 ["CMB_TRIP"]        = 0,
 
 ["CMD_BONUS"]       = 0,
-["CMD_BULL"]        = 0,
+["CMD_BULLRUSH"]    = 0,
 ["CMD_DIRTY"]       = 0,
 ["CMD_DISARM"]      = 0,
 ["CMD_OVERRUN"]     = 0,
