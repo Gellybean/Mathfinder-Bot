@@ -34,7 +34,7 @@ To create a character, use the `/char` command with the `New` option. Select a n
 
 ![newchar](https://user-images.githubusercontent.com/10622391/193479275-7eeb6257-a91c-44ec-b41f-486731590e95.jpg)
 
-Once you character is created, you can update it with an exported character sheet from a number from different programs, as well as any saved characters from Mathfinder. You can do this by using the [`/char-update`](https://github.com/Gellybean/Mathfinder-Bot/wiki/char#character-update) command.
+Once you character is created, you can update it with an exported character sheet from a number from different programs, as well as any saved characters from Mathfinder. You can do this by using the [`/char`](https://github.com/Gellybean/Mathfinder-Bot/wiki/char) command, using the `Update` action.
 
 ## Stats & Expressions
 Statblocks contain two primary values: Stats and Expressions. 
