@@ -85,7 +85,7 @@ my acrobatics isn't good. nice roll though!
 
 MF-Bot comes with many different preset commands for things like equipment, creatures, stat modifiers including spells and conditions. You can bring up pre-programmed attacks for creatures, or use your own stats when selecting different creature shapes. Check out the [Wiki entry](https://github.com/Gellybean/Mathfinder-Bot/wiki/preset-x) for more details.
 
-![addu](https://user-images.githubusercontent.com/10622391/195958771-d8bb7c7f-6b13-49ce-b526-6ebba115b758.jpg)
+![addu](https://user-images.githubusercontent.com/10622391/195965764-abe40bac-f9ce-47b1-80bd-c11d8c124f0a.jpg)
 ![dire](https://user-images.githubusercontent.com/10622391/195958967-1de2c996-f65d-47c3-8119-832e9a71b463.jpg)
 
 ## Character Sheet Imports
