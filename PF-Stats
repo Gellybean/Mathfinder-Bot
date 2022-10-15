@@ -20,7 +20,7 @@
 ["WIS_TEMP"] = 0,
 ["CHA_TEMP"] = 0,
 
-["SAVES_BONUS"] = 0,
+["SAVE_BONUS"] = 0,
 ["FORT_BONUS"]  = 0,
 ["REF_BONUS"]   = 0,
 ["WILL_BONUS"]  = 0,                    
