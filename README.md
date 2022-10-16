@@ -138,17 +138,11 @@ Since receiving this question, I've added default expressions representing both:
 
 Most people are probably going to use Power Attack two-handed. This is where [functions](https://github.com/Gellybean/Mathfinder-Bot/wiki/eval#functions) come in handy.
 
- - Power Attack (two-handed) hit: `th(PA_ATK)`
  - Power Attack (two-handed) damage: `th(PA_DMG)`
-
--:-                                        -:-
- 
- - Power Attack (off-handed) hit: `oh(PA_ATK)`
  - Power Attack (off-handed) damage: `oh(PA_DMG)`
 
-We can combine it with 
- - an attack roll: `ATK_STR + th(PA_ATK)`. We could call this `PA_ATK_TH`.
- - and a damage roll: `DMG_STR + th(PA_DMG)`. Let's call this one `PA_DMG_TH`
+We can combine it with a
+ - damage roll: `DMG_STR + th(PA_DMG)`. Let's call this one `PA_DMG_TH`
 
 The attack and damage rolls would be modifiers for any attack you'd wish to use it with. For example, you would add +1 to the attack roll with a masterwork weapon. For damage, of course, add your weapons dice or any additional modifiers: `2d6 + PA_DMG_TH`. I would suggest putting weapon expressions into a `/row` instead of directly into your character sheet. You can do this by using `/var` and `Set-Row`.
 
