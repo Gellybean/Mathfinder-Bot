@@ -26,7 +26,7 @@
 ["WILL_BONUS"]  = 0,                    
 
 ["MOVE_BONUS"]  = 0,
-["MOVE"]        = 0,
+["MOVE_BASE"]   = 0,
 ["MOVE_BURROW"] = 0,
 ["MOVE_CLIMB"]  = 0,
 ["MOVE_FLY"]    = 0,
