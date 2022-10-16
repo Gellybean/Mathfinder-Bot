@@ -146,7 +146,7 @@ Finally, we can combine it with an:
 
 The attack and damage rolls would be modifiers for any attack you'd wish to use it with. For example, you would add +1 to the attack roll with a masterwork weapon. For damage, of course, add your weapons dice and any additional modifiers: `2d6 + PWR_DMG`. I would suggest putting weapon expressions into a `/row` instead of directly into your character sheet. You can do this by using `/var` and `Set-Row`.
 
-![gs](https://user-images.githubusercontent.com/10622391/196036362-e78218e7-45d0-4cae-b4b1-60346555b604.jpg)
+![gs](https://user-images.githubusercontent.com/10622391/196036502-2453a10c-383e-46e1-a94e-04910adc2712.jpg)
 
 ![row](https://user-images.githubusercontent.com/10622391/196036387-ca0fbaa2-c09f-41a0-a295-36783f241b3b.jpg)
 
