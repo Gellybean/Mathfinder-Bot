@@ -103,10 +103,10 @@ my acrobatics isn't good. nice roll though!
 
 MF-Bot comes with many different preset commands for things like equipment, creatures, stat modifiers including spells and conditions. You can bring up pre-programmed attacks for creatures, or use your own stats when selecting different creature shapes. Check out the Wiki entries for more details.
 
-[/best](https://github.com/Gellybean/Mathfinder-Bot/wiki/best#bestiary)
-[/item](https://github.com/Gellybean/Mathfinder-Bot/wiki/item#item)
-[/shape](https://github.com/Gellybean/Mathfinder-Bot/wiki/shape#shape)
-[/spell](https://github.com/Gellybean/Mathfinder-Bot/wiki/spell#spell)
+ - [/best](https://github.com/Gellybean/Mathfinder-Bot/wiki/best#bestiary)
+ - [/item](https://github.com/Gellybean/Mathfinder-Bot/wiki/item#item)
+ - [/shape](https://github.com/Gellybean/Mathfinder-Bot/wiki/shape#shape)
+ - [/spell](https://github.com/Gellybean/Mathfinder-Bot/wiki/spell#spell)
 
 
 
