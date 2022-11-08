@@ -98,10 +98,17 @@ my acrobatics isn't good. nice roll though!
 
 ## Presets
 
-MF-Bot comes with many different preset commands for things like equipment, creatures, stat modifiers including spells and conditions. You can bring up pre-programmed attacks for creatures, or use your own stats when selecting different creature shapes. Check out the [Wiki entry](https://github.com/Gellybean/Mathfinder-Bot/wiki/preset-x) for more details.
-
 ![addu](https://user-images.githubusercontent.com/10622391/195965764-abe40bac-f9ce-47b1-80bd-c11d8c124f0a.jpg)
 ![dire](https://user-images.githubusercontent.com/10622391/195958967-1de2c996-f65d-47c3-8119-832e9a71b463.jpg)
+
+MF-Bot comes with many different preset commands for things like equipment, creatures, stat modifiers including spells and conditions. You can bring up pre-programmed attacks for creatures, or use your own stats when selecting different creature shapes. Check out the Wiki entries for more details.
+
+[/best](https://github.com/Gellybean/Mathfinder-Bot/wiki/best#bestiary)
+[/item](https://github.com/Gellybean/Mathfinder-Bot/wiki/item#item)
+[/shape](https://github.com/Gellybean/Mathfinder-Bot/wiki/shape#shape)
+[/spell](https://github.com/Gellybean/Mathfinder-Bot/wiki/spell#spell)
+
+
 
 ## Character Sheet Imports
 While you can setup a character by manually modifying each value, this is not ideal. Mathfinder currently supports a few options for character imports. This will override any pertinent values, so anytime your stats would change (level up, new stat-changing item), you can easily update your sheet.
