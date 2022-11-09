@@ -131,7 +131,7 @@ While you can setup a character by manually modifying each value, this is not id
 ## Q&A
 
 ### -> Does it support things beyond basic actions? (like attack type feats? Vital strike?)
-*from /r/Elgatee*
+*from /u/Elgatee*
 
 ![expr3](https://user-images.githubusercontent.com/10622391/194180919-4701f99f-0d71-44ff-a7b2-fb9bbd4da515.jpg)
 
@@ -161,7 +161,7 @@ The attack and damage rolls would be modifiers for any attack you'd wish to use 
 
 
 ### -> Does it support getting X to Y?
-*from /r/Elgatee*
+*from /u/Elgatee*
 
 A common example would be changing your Intimidate skill to use Strength instead of Charisma via [Intimidating Prowess.](https://aonprd.com/FeatDisplay.aspx?ItemName=Intimidating%20Prowess)
 
@@ -176,7 +176,7 @@ You can use [`/var`](https://github.com/Gellybean/Mathfinder-Bot/wiki/var#var) w
 
 
 ### -> Does it support custom skills?
-*from /r/Elgatee* (great questions all around)
+*from /u/Elgatee* (great questions all around)
 
 Yep. While there are a number of ways to accomplish this, I will use the methods I use in the default statblock.
 
