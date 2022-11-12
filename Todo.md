@@ -1,2 +1,3 @@
-- Add Autocomplete
-- Add more import options
+- Autocomplete
+- More import options
+- Drop Lowest mechanics to dice expressions
