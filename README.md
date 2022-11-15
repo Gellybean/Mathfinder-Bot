@@ -50,6 +50,8 @@ update char
 
 ![update](https://user-images.githubusercontent.com/10622391/196033832-3c30f5bd-4573-45bc-bd8e-e20d92b5de2d.jpg)
 
+That said, you can ignore all of this and just start using the bot. It will automatically create a blank, "global" sheet for you to use. Most features of the bot will still work!
+
 
 ## Stats & Expressions
 Statblocks contain two primary values: Stats and Expressions. 
