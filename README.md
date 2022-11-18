@@ -24,7 +24,7 @@ To help further with this, anyone with the `DM` role can do evaluations on their
 
  - [Bot Invite.](https://discord.com/api/oauth2/authorize?client_id=1003844628841238588&permissions=277025712192&scope=bot%20applications.commands)
  - [Discord.](https://discord.gg/z2rVRnVjb7) 
- - [Command reference.](https://github.com/Gellybean/Mathfinder-Bot/wiki/%25Mathfinder-Reference)
+ - [Command reference.](https://github.com/Gellybean/Mathfinder-Bot/wiki)
  - [Subreddit.](https://www.reddit.com/r/MathfinderBot/)
 
 This is a big work in progress! I'm sure there are plenty of bugs to work out, and many improvements to make. Please feel free to let me know on Discord or GH. 
