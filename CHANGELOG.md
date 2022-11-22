@@ -7,4 +7,4 @@ Changes since last big update...
 - Added `is-hidden` option to several commands. Default is hidden. 
 - Semicolons `;` can now be used to separate expressions. This will let you run multiple evals on a single line.
 - You can now enclose variable names in quotes `"`, which allows for spaces. However, Statblock vars will still be converted to upperspaced/underscored ("str score" would be converted to STR_SCORE) before any evalulation is made. This may be used for preset modifiers or other values that can contain spaces.
-- Added `/rule`. This is a misc. dump for basic rules, conditions, class abilities, etc—generally for a quick reference.
+- Added `/rule`. This is a misc. dump for basic rules, conditions, class abilities, etc—generally as a quick reference.
