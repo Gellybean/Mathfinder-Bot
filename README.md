@@ -17,10 +17,7 @@ Mathfinder is a Discord bot built as a stat-tracker for Pathfinder 1e. Its featu
 
 While there are a number of features included with this bot, the main purpose is to make combat easier by accurately tracking numbers for you. When it comes to the typical 1s and 2s that Pathfinder is known for, it can be a little confusing—not only because of the number of modifiers, but their bonus types and how they stack. The aim is to make the application and calculation of these modifiers as quick and accurate as possible.
 
-To help further with this, anyone with the `DM` role can do evaluations on their player's statblocks. As well, **anyone** can apply and remove preset modifiers to themselves and others. This means, for example, a Bard can apply his inspiration bonuses to his party with a command, or any cool Wizard can drop his most useful spell on the party...
-
-![mod](https://user-images.githubusercontent.com/10622391/200959147-01c599df-3b04-42e6-8463-5add411c62e1.jpg)
-
+To help further with this, anyone with the `DM` role can do evaluations on their player's statblocks.
 
  - [Bot Invite.](https://discord.com/api/oauth2/authorize?client_id=1003844628841238588&permissions=277025712192&scope=bot%20applications.commands)
  - [Discord.](https://discord.gg/z2rVRnVjb7) 
