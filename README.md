@@ -1,4 +1,4 @@
-# MathfinderBot
+# MathfinderBot v0.3
 
 Mathfinder is a Discord bot built as a stat-tracker for Pathfinder 1e. Its features include:
 
