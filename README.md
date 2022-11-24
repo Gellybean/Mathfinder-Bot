@@ -27,6 +27,8 @@ To help further with this, anyone with the `DM` role can do evaluations on their
 This is a big work in progress! I'm sure there are plenty of bugs to work out, and many improvements to make. Please feel free to let me know on Discord or GH. 
 
 ## Getting Started
+*NOTE* You don't need to create a character to use most commands. The first time you use `/eval`, it will generate a blank sheet for you. 
+
 To create a character, use the [`/char`](https://github.com/Gellybean/Mathfinder-Bot/wiki/char) command with the `Add` option. Select a name in the `char-name-or-number` field, a supported character sheet in the `attachment` field, and the `sheet-type`. You can read about imported sheet [below](https://github.com/Gellybean/Mathfinder-Bot#character-sheet-imports). 
 
 **NOTE** — If you don't wish to use an imported character sheet right away (or at all), you can instead use the `New` option and pick a character name.
@@ -39,11 +41,9 @@ add char
 ![add](https://user-images.githubusercontent.com/10622391/196011158-a217837a-ecae-46d0-b3e2-78dc4b52d010.jpg)
 
 
-new char
+OR new char & update
 
 ![newchar](https://user-images.githubusercontent.com/10622391/193479275-7eeb6257-a91c-44ec-b41f-486731590e95.jpg)
-
-update char
 
 ![update](https://user-images.githubusercontent.com/10622391/196033832-3c30f5bd-4573-45bc-bd8e-e20d92b5de2d.jpg)
 
@@ -60,8 +60,6 @@ Each `Stat` contains a base value, as well as a list of bonuses. Each `Bonus` co
 For usability, stats and expressions share a pool of variable names.
 
 **NOTE** — The default character sheet contains a number of both stats and expressions that represent the values you would find on any standard character sheet. This includes ability scores, saves, skills, cmb/cmd, modifiers, etc. Many of these values are important when using certain features, such as preset modifiers, that affect specific variables.
-
-That said, You can completely ignore those features. If you have in-depth homebrew rules that involve custom stats, skills, spells—whatever—you can fully customize your statblock. This means you can add, remove, change any single variable (stats, expressions, rows, grids).
 
 To view these values, use `/var` with the `List-Vars` option.
 
