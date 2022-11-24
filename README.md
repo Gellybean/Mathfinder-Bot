@@ -27,27 +27,21 @@ To help further with this, anyone with the `DM` role can do evaluations on their
 This is a big work in progress! I'm sure there are plenty of bugs to work out, and many improvements to make. Please feel free to let me know on Discord or GH. 
 
 ## Getting Started
-*NOTE* You don't need to create a character to use most commands. The first time you use `/eval`, it will generate a blank sheet for you. 
+**NOTE** You don't need to create a character to use most commands. The first time you use `/eval`, it will generate a blank sheet for you. 
 
-To create a character, use the [`/char`](https://github.com/Gellybean/Mathfinder-Bot/wiki/char) command with the `Add` option. Select a name in the `char-name-or-number` field, a supported character sheet in the `attachment` field, and the `sheet-type`. You can read about imported sheet [below](https://github.com/Gellybean/Mathfinder-Bot#character-sheet-imports). 
-
-**NOTE** — If you don't wish to use an imported character sheet right away (or at all), you can instead use the `New` option and pick a character name.
-
-Once you character is created through either `Add` or `New`, you can update it with the `/char` command, using the `Update` action.
+To create a character, use the [`/char`](https://github.com/Gellybean/Mathfinder-Bot/wiki/char) command with the `New` option. Select a name in the `char-name-or-number` field, a supported character sheet in the `attachment` field, and the `sheet-type`. You can read about imported sheet [below](https://github.com/Gellybean/Mathfinder-Bot#character-sheet-imports). 
 
 
-add char
+Once you character is created, you can update it using the `Update` action.
 
-![add](https://user-images.githubusercontent.com/10622391/196011158-a217837a-ecae-46d0-b3e2-78dc4b52d010.jpg)
-
-
-OR new char & update
+new char
 
 ![newchar](https://user-images.githubusercontent.com/10622391/193479275-7eeb6257-a91c-44ec-b41f-486731590e95.jpg)
 
-![update](https://user-images.githubusercontent.com/10622391/196033832-3c30f5bd-4573-45bc-bd8e-e20d92b5de2d.jpg)
+ 
+ *optional* update
 
-That said, you can ignore all of this and just start using the bot. It will automatically create a blank, "global" sheet for you to use. Most features of the bot will still work!
+![update](https://user-images.githubusercontent.com/10622391/196033832-3c30f5bd-4573-45bc-bd8e-e20d92b5de2d.jpg)
 
 
 ## Stats & Expressions
