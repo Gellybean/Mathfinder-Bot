@@ -35,8 +35,7 @@ Once you character is created, you can update it using the `Update` action.
 
 new char
 
-![newchar](https://user-images.githubusercontent.com/10622391/193479275-7eeb6257-a91c-44ec-b41f-486731590e95.jpg)
-
+![newchar1](https://user-images.githubusercontent.com/10622391/203803673-7a631c0e-6572-4a9a-9653-61ca9e493ae8.jpg)
  
  *optional* update
 
