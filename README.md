@@ -27,10 +27,9 @@ To help further with this, anyone with the `DM` role can do evaluations on their
 This is a big work in progress! I'm sure there are plenty of bugs to work out, and many improvements to make. Please feel free to let me know on Discord or GH. 
 
 ## Getting Started
-**NOTE** You don't need to create a character to use most commands. The first time you use `/eval`, it will generate a blank sheet for you. 
+**NOTE**—You don't need to create a character to use most commands. The first time you use `/eval`, it will generate a blank sheet for you. 
 
 To create a character, use the [`/char`](https://github.com/Gellybean/Mathfinder-Bot/wiki/char) command with the `New` option. Select a name in the `char-name-or-number` field, a supported character sheet in the `attachment` field, and the `sheet-type`. You can read about imported sheet [below](https://github.com/Gellybean/Mathfinder-Bot#character-sheet-imports). 
-
 
 Once you character is created, you can update it using the `Update` action.
 
