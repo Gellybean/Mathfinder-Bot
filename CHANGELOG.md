@@ -1,2 +1,2 @@
 Changes since last big update...
-  - Added a `metamagic` field to /spell. This will allow you to apply one or many metamagic before determining the spell description, as well as any formulae that may scale from it.
+  - Added a `metamagic` field to /spell. This will allow you to apply one or many metamagics before determining the spell description, as well as any formulae that may scale from it.
