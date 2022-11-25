@@ -24,7 +24,7 @@ To help further with this, anyone with the `DM` role can do evaluations on their
  - [Command reference.](https://github.com/Gellybean/Mathfinder-Bot/wiki)
  - [Subreddit.](https://www.reddit.com/r/MathfinderBot/)
 
-This is a big work in progress! I'm sure there are plenty of bugs to work out, and many improvements to make. Please feel free to let me know on Discord or GH. The [**Command Reference**](https://github.com/Gellybean/Mathfinder-Bot/wiki) should help you with basic usage!
+This is a big work in progress! I'm sure there are plenty of bugs to work out, and many improvements to make. Please feel free to let me know on here or Discord. The [**Command Reference**](https://github.com/Gellybean/Mathfinder-Bot/wiki) should help you with basic usage!
 
 ## Getting Started
 **NOTE**—You don't need to create a character to use most commands. The first time you use `/eval`, it will generate a blank sheet for you. 
