@@ -116,7 +116,7 @@ While you can setup a character by manually modifying each value, this is not id
  ### RPG Scribe
  - Using the exported TXT file.
 
-**NOTE** — There are specific limitation when parsing different sheets. For instance, not all bonus types may be known for a given stat, and cannot be applied accurately, but the totals should remain correct. This can affect the proper calculation of stacking bonuses. I do my best! Also, expect general issues with parsing—Some options I've tested more throughougly than others.
+**NOTE** — There are specific limitation when parsing different sheets. For instance, not all bonus types may be known for a given stat, and cannot be applied accurately, but the totals should remain correct. This can affect the proper calculation of stacking bonuses. I do my best! Also, expect general issues with parsing—Some options I've tested more thoroughly than others.
 
 ## Q&A
 
