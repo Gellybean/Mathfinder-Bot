@@ -4,3 +4,4 @@ Changes since last big update...
   - Standard Emojis can now be used as variable names. 🪄
   - Expressions can now be assigned through /eval using the `+#` operator. For example `TESTEXPR +# 1+2` or `TESTEXPR +# "1d20 + STR"`.
   - As per request—added support for RPG Scribe.
+  - Removed active character checks for commands. a `$GLOBAL` name should be set if none already is.
