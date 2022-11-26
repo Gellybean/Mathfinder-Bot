@@ -3,3 +3,4 @@ Changes since last big update...
   - You can now omit the "1" from single die rolls. For example, `d20` vs `1d20`.
   - Standard Emojis can now be used as variable names. 🤷
   - Expressions can now be assigned through /eval using the `+#` operator. For example `TESTEXPR +# 1+2` or `TESTEXPR +# "1d20 + STR"`.
+  - Added support for RPG Scribe.
