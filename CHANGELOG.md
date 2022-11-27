@@ -5,5 +5,5 @@ Changes since last big update...
   - Expressions can now be assigned through /eval using the `+#` operator. For example, `TEST_EXPR +# "1 + 2"` or `TEST_EXPR +# "1d20 + 🔥"`. You will need to enclose your statements inside quotes `"` for it to work as intended.
   - Added parsing support for RPG Scribe's .txt output.
   - Removed active character checks for commands. a `$GLOBAL` name should be set if none already is.
-  - Removed required role for `/req`.
+  - Removed role restriction for `/req`.
   - Removed `/grid`. You can now create grids of buttons by using expression rows. When creating a row, you can use up to 25 lines to create buttons. 
