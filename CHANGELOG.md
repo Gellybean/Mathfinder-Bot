@@ -6,4 +6,4 @@ Changes since last big update...
   - Added parsing support for RPG Scribe's .txt output.
   - Removed active character checks for commands. a `$GLOBAL` name should be set if none already is.
   - Removed role restriction for `/req`.
-  - Removed `/grid`. You can now create grids of buttons by using expression rows. When creating a row, you can use up to 25 lines to create buttons. 
+  - Removed `/grid`. You can now create as many as 25 buttons in a single `/row`. 
