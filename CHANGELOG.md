@@ -7,4 +7,4 @@ Changes since last big update...
   - Removed role restriction for /req.
   - Removed /grid.
     - You can create expression rows with up to 25 buttons.
-  - Autocomplete now works for /best.
+  - Autocomplete now works for the bestiary.
