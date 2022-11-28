@@ -6,4 +6,4 @@ Changes since last big update...
   - Added parsing support for RPG Scribe's .txt output.
   - Removed role restriction for `/req`.
   - Removed `/grid`. You can now create as many as 25 buttons in a single `/row`.
-  - Autocomplete now works for /best.
+  - Autocomplete now works for `/best`.
