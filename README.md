@@ -60,11 +60,11 @@ expressions
 
 
 ## Rows
-You can `/eval` expressions individually, or you can use Discord's UI features. `/row`s are used for this.
+You can `/eval` expressions individually, or you can use Discord's UI features. `/row` is used for this.
 
 ![expr](https://user-images.githubusercontent.com/10622391/193103316-36802b25-9370-4375-b8ff-3821b18ba8f9.jpg)
 
-These `Rows` are sets of buttons. These can call any value from your sheet or be entirely unique. This is useful when representing something like a weapon's attack and damage values. You can create your own rows from scratch using `/var Set-Row`, or they can be saved from a preset (such as weapons in /item). use the `/row` command to call any created rows.
+These rows are sets of buttons. These can call any value from your sheet or be entirely unique. This is useful when representing something like a weapon's attack and damage values. You can create your own rows from scratch using `/var` with the `Set-Row` action, or they can be saved from a preset (such as weapons in /item). use the `/row` command to call any created rows.
 
 
 a row
