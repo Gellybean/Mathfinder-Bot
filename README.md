@@ -14,7 +14,7 @@ Mathfinder is a Discord bot built as an expression parser and stat-tracker for P
 - Bestiary containing complete entries and buttons for melee/ranged attacks
 - Making your Pathfinder experience more convoluted than ever!
 
-This bot contains a number of features—any of which can be ignored. Hopefully you find at least one of them useful!
+This bot contains a number of commands, but core premise revolves around one: `/eval`. This is where you can roll dice, create and save expressions, as well as modify your statistics using pathfinder's bonus-stacking rules. Most other commands utilize this functionality in one way or another.
 
  - [Bot Invite.](https://discord.com/api/oauth2/authorize?client_id=1003844628841238588&permissions=277025712192&scope=bot%20applications.commands)
  - [Discord Server.](https://discord.gg/z2rVRnVjb7)
@@ -26,7 +26,7 @@ This is a big work in progress. I'm sure there are plenty of bugs to work out, a
 
 To create a character, use the [`/char`](https://github.com/Gellybean/Mathfinder-Bot/wiki/char) command with the `New` option.
 
-Once you character is created, you can update it using the `Update` action.
+Once you character is created, you can update it using the `Update` action, as well as list your stats and expressions using [/var](https://github.com/Gellybean/Mathfinder-Bot/wiki/var)
 
 new char
 
