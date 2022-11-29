@@ -4,7 +4,7 @@ Mathfinder is a Discord bot built as an expression parser and stat-tracker for P
 
 - A math engine you can use to create useful expressions
 - Create customizable statblocks to store all your variables 
-- Use 3rd party imports to update your stats
+- 3rd party import options to update your stats
 - Transform expressions into buttons
 - Basic inventory management
 - Item reference with inventory interaction
