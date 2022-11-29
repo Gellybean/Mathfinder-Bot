@@ -16,6 +16,8 @@ Mathfinder is a Discord bot built as an expression parser and stat-tracker for P
 
 This bot contains a number of commands, but its core premise revolves around one: [`/eval`](https://github.com/Gellybean/Mathfinder-Bot/wiki/eval). This is where you can roll dice, create and save expressions, as well as modify your statistics using pathfinder's bonus-stacking rules. Most other commands utilize eval in one way or another.
 
+![roll](https://user-images.githubusercontent.com/10622391/204659014-35ac56a9-16a4-431a-b09b-4d7a1683b621.jpg)
+
  - [Bot Invite.](https://discord.com/api/oauth2/authorize?client_id=1003844628841238588&permissions=277025712192&scope=bot%20applications.commands)
  - [Discord Server.](https://discord.gg/z2rVRnVjb7)
 
