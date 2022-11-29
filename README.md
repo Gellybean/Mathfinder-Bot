@@ -32,7 +32,7 @@ new char
 
 ![newchar1](https://user-images.githubusercontent.com/10622391/203803673-7a631c0e-6572-4a9a-9653-61ca9e493ae8.jpg)
  
- *optional* update
+update
 
 ![update](https://user-images.githubusercontent.com/10622391/196033832-3c30f5bd-4573-45bc-bd8e-e20d92b5de2d.jpg)
 
