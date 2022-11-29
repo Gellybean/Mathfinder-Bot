@@ -100,7 +100,7 @@ MF-Bot comes with many different preset commands for things like equipment, crea
 ## Character Sheet Imports
 While you can setup a character by manually modifying values, why not use your favorite character creator instead? 
 
-Mathfinder currently supports a few options for character imports. This will override any pertinent values, so anytime your stats would change, you can easily update your sheet.
+Mathfinder currently supports a few options for character imports. This will override any pertinent values, so anytime your stats would change, you can easily update your sheet. This way you can use apps more suited for character management while keeping your expressions up to date.
 
 ### PCGen
  - Using the export option `csheet_fantasy_rpgwebprofiler.xml`. Tested with v6.09.05.
