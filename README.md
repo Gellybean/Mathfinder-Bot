@@ -31,7 +31,7 @@ This is a big work in progress. I'm sure there are plenty of bugs to work out, a
 
 To create a character, use the [`/char`](https://github.com/Gellybean/Mathfinder-Bot/wiki/char) command with the `New` action.
 
-Once you character is created, you can update it using the `Update` action, as well as list your stats and expressions using [`/var`](https://github.com/Gellybean/Mathfinder-Bot/wiki/var)
+Once a character is created, you can update it using the `Update` action, as well as list your stats and expressions using [`/var`](https://github.com/Gellybean/Mathfinder-Bot/wiki/var)
 
 new char
 
