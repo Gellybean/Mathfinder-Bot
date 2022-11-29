@@ -24,7 +24,7 @@ This is a big work in progress. I'm sure there are plenty of bugs to work out, a
 ## Getting Started
 **NOTE**—You don't need to create a character to use most commands. The first time you use [`/eval`](https://github.com/Gellybean/Mathfinder-Bot/wiki/eval), it will generate a blank sheet for you. 
 
-To create a character, use the [`/char`](https://github.com/Gellybean/Mathfinder-Bot/wiki/char) command with the `New` option.
+To create a character, use the [`/char`](https://github.com/Gellybean/Mathfinder-Bot/wiki/char) command with the `New` action.
 
 Once you character is created, you can update it using the `Update` action, as well as list your stats and expressions using [/var](https://github.com/Gellybean/Mathfinder-Bot/wiki/var)
 
