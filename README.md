@@ -25,7 +25,7 @@ This bot contains a number of commands, but its core premise revolves around one
  - [Bot Invite.](https://discord.com/api/oauth2/authorize?client_id=1003844628841238588&permissions=277025712192&scope=bot%20applications.commands)
  - [Discord Server.](https://discord.gg/z2rVRnVjb7)
 
-This is a big work in progress. I'm sure there are plenty of bugs to work out, and many improvements to make. Please feel free to let me know on here or Discord. The [**Command Reference**](https://github.com/Gellybean/Mathfinder-Bot/wiki) should help you with basic usage.
+This is a big work in progress, with plenty of room for improvement. Please feel free to let me know what you think on here or Discord. The [**Command Reference**](https://github.com/Gellybean/Mathfinder-Bot/wiki) should help you with basic usage.
 
 ## Getting Started
 **NOTE**—You don't need to create a character to utilize most commands. The first time you use [`/eval`](https://github.com/Gellybean/Mathfinder-Bot/wiki/eval), it will generate a blank sheet for you. 
