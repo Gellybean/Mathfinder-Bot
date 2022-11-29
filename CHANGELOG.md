@@ -6,5 +6,5 @@ Changes since last big update...
   - Added parsing support for RPG Scribe's .txt output.
   - Removed role restriction for /req.
   - Removed /grid.
-    - You can create expression rows with up to 25 buttons.
+    - You can create expression rows with up to 25 buttons (up from 5).
   - Autocomplete now works for the bestiary.
