@@ -17,7 +17,6 @@ This bot contains a number of commands, but its core functionality revolves arou
 
 ![roll](https://user-images.githubusercontent.com/10622391/204659521-9ca808e2-21b1-42f3-8c88-b2b5d8bc04cb.jpg)
 ![fire1](https://user-images.githubusercontent.com/10622391/204660444-57e9e957-22b6-4af6-8e54-f9947914c400.jpg)
-![rows](https://user-images.githubusercontent.com/10622391/204664393-5deff322-55f3-4f7c-b647-711155d9177b.jpg)
 
 
 
