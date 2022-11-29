@@ -46,7 +46,7 @@ Each `Stat` contains a base value, as well as a list of bonuses. Each `Bonus` co
 
 For usability, stats and expressions share a pool of variable names.
 
-**NOTE** — The default character sheet contains a number of both stats and expressions that represent the values you would find on any standard character sheet. This includes ability scores, saves, skills, cmb/cmd, modifiers, etc. Many of these values are important when using certain features, such as preset modifiers, that affect specific variables. Please let me know, and I will fix them.
+**NOTE** — The default character sheet contains a number of both stats and expressions that represent the values you would find on any standard character sheet. This includes ability scores, saves, skills, cmb/cmd, modifiers, etc. Many of these values are important when using certain features, such as preset modifiers, that affect specific variables.
 
 To view these values, use `/var` with the `List-Vars` option.
 
@@ -113,7 +113,8 @@ Mathfinder currently supports a few options for character imports. This will ove
  ### RPG Scribe
  - Using the exported TXT file.
 
-**NOTE** — There are specific limitation when parsing different sheets. For instance, not all bonus types may be known for a given stat, and cannot be applied accurately, but the totals should remain correct. This can affect the proper calculation of stacking bonuses. I do my best! Also, expect general issues with parsing—Some options I've tested more thoroughly than others.
+**NOTE** — There are specific limitation when parsing different sheets. For instance, not all bonus types may be known for a given stat, and cannot be applied accurately, but the totals should remain correct. This can affect the proper calculation of stacking bonuses. I do my best! Also, expect general issues with parsing—Some options I've tested more thoroughly than others. Please let me know, and I will fix them.
+
 
 ## Q&A
 
