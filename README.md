@@ -46,7 +46,7 @@ Each `Stat` contains a base value, as well as a list of bonuses. Each `Bonus` co
 
 For usability, stats and expressions share a pool of variable names.
 
-**NOTE** — The default character sheet contains a number of both stats and expressions that represent the values you would find on any standard character sheet. This includes ability scores, saves, skills, cmb/cmd, modifiers, etc. Many of these values are important when using certain features, such as preset modifiers, that affect specific variables.
+**NOTE** — The default character sheet contains a number of both stats and expressions that represent the values you would find on any standard character sheet. This includes ability scores, saves, skills, cmb/cmd, modifiers, etc. Many of these values are important when using certain features, such as preset modifiers, that affect specific variables. Please let me know, and I will fix them.
 
 To view these values, use `/var` with the `List-Vars` option.
 
