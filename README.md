@@ -27,7 +27,7 @@ This bot contains a number of commands, but its core functionality revolves arou
 This is a big work in progress, with plenty of room for improvement. Please feel free to let me know what you think on here or Discord. The [**Command Reference**](https://github.com/Gellybean/Mathfinder-Bot/wiki) should help you with basic usage.
 
 ## Getting Started
-**NOTE**—If you don't want to manage the many variables on a default statblock, you can just start using [`/eval`](https://github.com/Gellybean/Mathfinder-Bot/wiki/eval), it will generate an empty statblock automatically.
+**NOTE**—If you don't want to manage the many variables that comes with a default statblock, you can just start using [`/eval`](https://github.com/Gellybean/Mathfinder-Bot/wiki/eval), it will generate an empty statblock automatically.
 
 To create a character, use the [`/char`](https://github.com/Gellybean/Mathfinder-Bot/wiki/char) command with the `New` action.
 
