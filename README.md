@@ -46,6 +46,8 @@ Each `Stat` contains a base value, as well as a list of bonuses. Each `Bonus` co
 
 For usability, stats and expressions share a pool of variable names.
 
+`Expression Rows` are groups of buttons that execute an expression. You can assign them to a variable using /var with the `Set-Expression` action. You can then call them at any time using `/row`.
+
 **NOTE** — The default character sheet contains a number of both stats and expressions that represent the values you would find on any standard character sheet. This includes ability scores, saves, skills, cmb/cmd, modifiers, etc. Many of these values are important when using certain features, such as preset modifiers, that affect specific variables.
 
 To view these values, use `/var` with the `List-Vars` option.
