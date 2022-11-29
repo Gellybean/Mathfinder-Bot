@@ -90,6 +90,7 @@ MF-Bot comes with many different preset commands for things like equipment, crea
 
  - [/best](https://github.com/Gellybean/Mathfinder-Bot/wiki/best#bestiary) — Bestiary
  - [/item](https://github.com/Gellybean/Mathfinder-Bot/wiki/item#item) — View or Add items to your inventory, generate preset expressions for weapons, apply bonuses from equipment with a button click.
+ - [/rule](https://github.com/Gellybean/Mathfinder-Bot/wiki/rule#rule) — List common rules, conditions, class abilities.
  - [/shape](https://github.com/Gellybean/Mathfinder-Bot/wiki/shape#shape) — List abilities and generate expressions for your attacks.
  - [/spell](https://github.com/Gellybean/Mathfinder-Bot/wiki/spell#spell) — List spells, provide an optional caster level for scaling values.
 
