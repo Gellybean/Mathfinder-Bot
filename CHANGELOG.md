@@ -4,7 +4,7 @@ Changes since last big update...
   - Standard Emojis can now be used as variable names 🪄. What have I done?
   - Expressions can now be assigned through /eval using the `#` operator. For example, `TEST_EXPR # "1+2"` or `TEST_EXPR # "d20 + 🔥"`. You will need to enclose your assignments inside quotes `"` for it to work as intended.
   - Added parsing support for RPG Scribe's .txt output.
-  - Removed role restriction for /req.
+  - Removed role restriction for /req. Anyone can create a requested expression—such as a dice roll—which will generate a button that anyone can click.
   - Removed /grid.
     - You can create expression rows with up to 25 buttons (up from 5).
   - Autocomplete now works for the bestiary.
