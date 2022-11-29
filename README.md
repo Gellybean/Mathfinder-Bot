@@ -14,13 +14,13 @@ Mathfinder is a Discord bot built as an expression parser and stat-tracker for P
 - Bestiary containing complete entries and buttons for melee/ranged attacks
 - Making your Pathfinder experience more convoluted than ever!
 
-This bot contains a number of features—all of which can be ignored in favor of only using one or a couple. Hopefully you find some of them useful!
+This bot contains a number of features—any of which can be ignored. Hopefully you find at least one of them useful!
 
  - [Bot Invite.](https://discord.com/api/oauth2/authorize?client_id=1003844628841238588&permissions=277025712192&scope=bot%20applications.commands)
  - [Discord.](https://discord.gg/z2rVRnVjb7) 
  - [Subreddit.](https://www.reddit.com/r/MathfinderBot/)
 
-This is a big work in progress! I'm sure there are plenty of bugs to work out, and many improvements to make. Please feel free to let me know on here or Discord. The [**Command Reference**](https://github.com/Gellybean/Mathfinder-Bot/wiki) should help you with basic usage!
+This is a big work in progress. I'm sure there are plenty of bugs to work out, and many improvements to make. Please feel free to let me know on here or Discord. The [**Command Reference**](https://github.com/Gellybean/Mathfinder-Bot/wiki) should help you with basic usage!
 
 ## Getting Started
 **NOTE**—You don't need to create a character to use most commands. The first time you use [`/eval`](https://github.com/Gellybean/Mathfinder-Bot/wiki/eval), it will generate a blank sheet for you. 
