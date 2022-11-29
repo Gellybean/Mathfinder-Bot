@@ -14,6 +14,8 @@ Mathfinder is a Discord bot built as an expression parser and stat-tracker for P
 - Bestiary containing complete entries and buttons for melee/ranged attacks
 - Making your Pathfinder experience more convoluted than ever!
 
+This bot contains a number of features—all of which can be ignored in favor of only using one or a couple. Hopefully you find some of them useful!
+
  - [Bot Invite.](https://discord.com/api/oauth2/authorize?client_id=1003844628841238588&permissions=277025712192&scope=bot%20applications.commands)
  - [Discord.](https://discord.gg/z2rVRnVjb7) 
  - [Subreddit.](https://www.reddit.com/r/MathfinderBot/)
