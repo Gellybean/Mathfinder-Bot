@@ -9,7 +9,7 @@ Mathfinder is a Discord bot built as an expression parser and stat-tracker for P
 - Basic inventory management
 - Item reference with inventory interaction
 - Spell reference with options for calculating values that rely upon caster level
-- Tools for DMs, including the ability to evaluate targeted character sheets, secret rolls, initiative tracking, roll requests
+- Tools for DMs, including the ability to evaluate targeted character sheets, secret rolls, roll requests
 - Bestiary containing complete entries and buttons for melee/ranged attacks
 - Making your Pathfinder experience more convoluted than ever!
 
